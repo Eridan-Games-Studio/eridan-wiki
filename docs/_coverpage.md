@@ -1,4 +1,4 @@
-![logo](_media/eridan-logo-2-transparent.png)
+![logo](_media/eridan-logo-1-transparent.png)
 
 # Eridan Games Wiki
 
