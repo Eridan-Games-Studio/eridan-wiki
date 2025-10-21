@@ -7,15 +7,15 @@
 
 ## Welcome to the Age of High Adventure
 
-Twelve galactic cycles have passed since the **Dominion Ascendancy** left their final message etched into subspace. Since the day when four Great Races—Aquila, Liguni, Dindrae, and Zo Har—converged on the same coordinates in a moment that would define history.
+In this galactic cycle, the planetoid Rika stands as the solemn arbiter of galactic relations. 
 
-Since the day when **Rika manifested** in real space, sovereign and serene.
+She calls forth those whose conflicts threaten the future only she can see, summoning them to her ever-shifting terrain to settle their disputes through force of arms and strength of influence. 
 
-Now, Rika stands as the solemn arbiter of galactic stability. She calls forth those whose conflicts threaten the cosmic balance, summoning them to her ever-shifting terrain to settle their disputes through force of arms and strength of influence.
+She guides those whom she chooses to accomplish her inscrutable goals. These are her chosen, her unlikely heroes, her adventurers. 
 
-To obey the Call is to seek justice. To refuse it is to court annihilation.
+She welcomes pilgrims, to hear their cries and demands. 
 
-This is the age of high adventure, where empires clash on sacred ground, where ancient mysteries guide the fate of civilizations, and where the Rule of Rika maintains the fragile peace of the stars.
+This is the age of high adventure, where empires clash on sacred ground, where ancient mysteries guide the fate of civilizations, and where the Rule of Rika maintains the order among the stars.
 
 ---
 
