@@ -131,4 +131,4 @@ So fell the DZHIU, the **first of the outcasts**.
 - [→ Read Next: Battle of [Redacted]](02-[next-story-arc])
 - [→ Learn about: The Four Prime Contenders](../../factions/index)
 - [→ Understand: The Consequences of Defying Rika](../../systems/rika-judgment)
-- [→ Return to Fiction Index](index)
+- [→ Return to Fiction Index](index.md)
