@@ -118,8 +118,6 @@ In an instant, all that was left of the grand DZHIU fleet moved toward the Rika 
 
 ---
 
-## The Aftermath
-
 So fell the DZHIU, the **first of the outcasts**.
 
 ---
