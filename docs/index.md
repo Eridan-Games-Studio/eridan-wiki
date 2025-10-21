@@ -21,7 +21,7 @@ A **supernatural-noir setting** steeped in crime, occult mystery, and urban para
 
 ### RPGs  
 - **H.A.V.E.N RPG** - Supernatural-noir investigation game
-- **Rika: Aliens as Allies** - Therapeutically inspired relational narrative RPG
+- **Rika RPG: We are all aliens here** - Therapeutically inspired relational narrative RPG
 
 ### Tactical Games
 - **Atomic Horizon: Warcaskets** - Co-op tactical skirmish with customizable exosuits
