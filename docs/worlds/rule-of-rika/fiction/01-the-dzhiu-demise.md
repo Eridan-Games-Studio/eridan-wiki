@@ -8,17 +8,11 @@
 
 ---
 
-## The Fated Day
-
 In that fated day, the **DZHIU** descended on the **Rika space** in all of their regal splendor.
 
 Led by the revered savant **Arimnia CHA Derisendi Yo'h** aboard the flagship *Pride of DZHIU*, the entire fleet gathered around the **Solar Intum Drill**. A marvel of ingenuity, and a tool to defy fate, the drill was meant to be DZHIU’s final testament and the proof of their supremacy over all other races. Through it, they wished to best Rika’s impenetrable silence, and thus, in manifesting supremacy over Rika’s protective shielding, secure their position of ascendancy.
 
 As the ships slowly positioned behind the drill, a mesmerizing spectacle unfolded on the capitol's prime terrace. Here, four armed dancers moved to a gentle but primal beat, their bright green skin oiled with finest perfumes and clad in glistening precious metals. All over the capitol’s floating terraces, participants reveled in adulterated revelry, feasting and drinking in anticipation of their impending show of supremacy.
-
----
-
-## The Primal Fear
 
 But beneath their wide grins, and below the layers of imbibed elixirs, through the genetical vestiges of some long-forgotten ancestor, a **primal fear crept up like an uninvited guest**.
 
@@ -30,19 +24,11 @@ But, for the grand savant, the cosmic night shone brightly with the promise of c
 
 And with that fateful decision, wrapped in an exuberant whirlwind of laughter and shouts, the great engine was started and the Drill interfaced with Rika’s Aranik shielding.
 
----
-
-## The Unimaginable Occurred
-
 For a breathless moment, nothing transpired. Privily, a collective murmur of anticipation rose as the Engineers boosted the Drill’s power to greater output. Another moment passed, and yet another. All was still.
 
 And then, the **Aranik shield** briefly, shyly, shimmered. The crowd exploded in a jubilee of pride, embracing each other in wild revelry, sharing the joy of their imminent success.
 
 But then the unimaginable occurred. The Aranik shield, all in a single instant, in a blink of an eye, turned a deep, ominous black. A perfectly circular void amid twinkling stars. And just as quickly, the void expanded. Or was this merely a trick of the eye? None had the time to tell, for just in that single next instant, the shield was back to its white-blue color, as though nothing happened at all.
-
----
-
-## The Devastation
 
 A sudden gasp grasped the DZHIU, their breath stolen; the court swiftly fell under a cloak of utter silence.
 
@@ -62,11 +48,8 @@ Amidst the chaos, the grand savant stood motionless, silent; the tumultuous soun
 
 All she could see was the **ominous black eye of the Rika**, gazing back at her with otherworldly intensity. And in that profound moment, as time stood still and a single tear traced its path down her cheek, the grand savant had her epiphany.
 
----
 
-## The Epiphany
-
-For, unbeknownst to her, the **DZHIU** carried a latent and very rare genetical imprint. One that triggered only in situations of highest civilizational peril, of existential dread. An imprint that enables the esthetical DZHIU to see beyond the veil of temporality and materiality. And so it was, that in the last moments of her life, the royal lineage of the DZHIU engraved into her body enabled the savant to see the truth.
+For, unbeknownst to her, the **DZHIU** carried a latent and very rare genetical imprint. One that triggered only in situations of highest civilizational peril, of existential dread. One to see beyond the veil of temporality and materiality. And so it was, that in the last moments of her life, the savant saw the transcendent truth.
 
 The profound wisdom of the **Founders**, the intricately woven recursion of each **Great Cycle**, and the significance of the races —all converged within this fateful revelation.
 
