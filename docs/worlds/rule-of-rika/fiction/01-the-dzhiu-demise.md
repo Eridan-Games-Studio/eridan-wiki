@@ -15,8 +15,7 @@ Led by the revered savant **Arimnia CHA Derisendi Yo'h** aboard the flagship *Pr
 As the ships slowly positioned behind the drill, a mesmerizing spectacle unfolded on the capitol's prime terrace. Here, four armed dancers moved to a gentle but primal beat, their bright green skin oiled with finest perfumes and clad in glistening precious metals. All over the capitol’s floating terraces, participants reveled, feasting and drinking in anticipation of their impending show of supremacy.
 
 But beneath their wide grins, and below the layers of imbibed elixirs, through the genetical vestiges of some long-forgotten ancestor, a **primal fear crept up like an uninvited guest**.
-
-A mute messenger of terror, it slowly but surely crawled from their bellies to their throats, first as an uncomfortable tension and then a firm grip on their throats. For Rika stood firmly and regally in front of them, her **Aranik shielding** vibrating in a pale blue hue, signaling her impenetrable sleep, uncaring for the DZHIU show of force.
+A mute messenger of terror, it tried to warn them of their folly. For Rika stood firmly and regally in front of them, her **Aranik shielding** vibrating in a pale blue hue, signaling her impenetrable sleep, uncaring for the show of force.
 
 But, for the grand savant, the cosmic night shone brightly with the promise of celestial glory. She stood above her royal assembly on the transparent plateau, firm, tense, and regal with her self-absorbed value. Her silken dress revealing the marble pale skin and perfect contour, her four arms engrossed to caress the lovers beneath her feet. A moment passed and two, and then, with all eyes upon her, she exclaimed royally, and wildly, high above all other voices:
 
