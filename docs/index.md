@@ -1,6 +1,6 @@
 # Eridan Games Wiki
 
-Welcome to the **Eridan Games Wiki** - your comprehensive guide to our immersive worlds and innovative games. This documentation covers everything from deep lore to gameplay mechanics across our three distinct universes.
+Welcome to the **Eridan Games Wiki** - your comprehensive guide to our immersive worlds and innovative games. This documentation covers everything from deep lore to gameplay mechanics across our game universes.
 
 ## Our Worlds
 
@@ -35,4 +35,4 @@ A **supernatural-noir setting** steeped in crime, occult mystery, and urban para
 
 ---
 
-*Explore our worlds, master our games, and join the cosmic journey!* ✨
+
