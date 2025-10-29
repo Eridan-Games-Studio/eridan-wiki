@@ -50,18 +50,18 @@ And it is in the best interest of the non-Akvira to answer positively, as the qu
 
 ## In the heat of battle
 
-*As Gekhem's eyes fell upon the Liguni Dhul, he knew he had to act swiftly.
+*As Gekhem's eyes fell upon the Liguni Dhul, he knew he had to act swiftly.*
 
-The mind-slave did not inherit the displacement ability from his previous coupling and it now stood open to aerial assault. With a quick command, he signaled his team to move in from the flanks, while he launched himself at the enemy from the front.
+*The mind-slave did not inherit the displacement ability from his previous coupling and it now stood open to aerial assault. With a quick command, he signaled his team to move in from the flanks, while he launched himself at the enemy from the front.*
 
-With the grace of a hunting bird, he swooped in towards the Liguni, his Nebu armor tightly pressing against his dense muscles, slightly adjusting his trajectory mid-air for maximum impact.  
-As he closed in on the enemy, he drew his weapon to this chest, a Kar-Gun Assault Rifle, endowed with armor-piercing ammunition, and aimed at his opponent.  
-Suddenly the Dhul turned his face towards him, tentacles swirling in defense position, but it was all too late. Gekhem's strike was swift and precise, and the entire set of gleaming blue-colored kinetics slammed into its torso with a deadly intent sending him stumbling backward.  
-But Gekhem was not done yet. He dived down towards his foe with incredible speed, his fiber suit tightening around his chiseled muscles adjusting his flight vectors for optimal impact.
+*With the grace of a hunting bird, he swooped in towards the Liguni, his Nebu armor tightly pressing against his dense muscles, slightly adjusting his trajectory mid-air for maximum impact.  
+As he closed in on the enemy, he drew his weapon to this chest, a Kar-Gun Assault Rifle, endowed with armor-piercing ammunition, and aimed at his opponent.*  
+*Suddenly the Dhul turned his face towards him, tentacles swirling in defense position, but it was all too late. Gekhem's strike was swift and precise, and the entire set of gleaming blue-colored kinetics slammed into its torso with a deadly intent sending him stumbling backward.*  
+*But Gekhem was not done yet. He dived down towards his foe with incredible speed, his fiber suit tightening around his chiseled muscles adjusting his flight vectors for optimal impact.*
 
-An instant before the impact the bionic talons released with a loud clank, and with a sudden adjustment, Gekhem grabbed the still-struggling Dhul firmly in his empowered claws and lifted him into the air with ease.  
+*An instant before the impact the bionic talons released with a loud clank, and with a sudden adjustment, Gekhem grabbed the still-struggling Dhul firmly in his empowered claws and lifted him into the air with ease.*  
 
-The thing fought to break free, but it was of no use. Gekhem spat and hurled his adversary away with incredible force, crashing it to the ground.*
+*The thing fought to break free, but it was of no use. Gekhem spat and hurled his adversary away with incredible force, crashing it to the ground.*
 
 ---
 
