@@ -25,11 +25,13 @@ All of this is most poignantly represented in **Rika battles**, where Akviran ve
 
 ## Nebu Uniqueness
 
-The mystery of Nebu's formation is a byzantine matter, which the Akvira call **"Sekhem Ren"**, a term roughly translated as *“Power forms our identity.”*  
+The mystery of Nebu's formation is a byzantine matter, which the Akvira call **"Sekhem Ren"**, a term roughly translated as *“Power forms our identity.”*
+
 This alchemical process occurs deep within the planet's crust and defies even the most advanced scientific inquiries, but what can be surmised is that the Akvira, through some unknown collective force, change the properties of ordinary heavy metals in the planet's crust, to realize the Nebu.
 
-Importantly, Akviras are incapable of consciously controlling this process, and thus no technological replication of the metal is possible.  
+Importantly, Akviras are incapable of consciously controlling this process, and thus no technological replication of the metal is possible. 
 As a result, Nebu represents a unique resource in the entire Galaxy intrinsically tied to Akvira planets.  
+
 For this reason, Akviras view the Nebu metal as a sacred symbol of their connection to the **Ultimate Mind**, a tangible expression and vivid proof of the royal bond between themselves and the forces that govern the cosmos.
 
 ---
