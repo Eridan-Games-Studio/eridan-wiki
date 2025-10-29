@@ -37,7 +37,7 @@ The grand savant, bewildered by the readings on her viewing screen, leaned over 
 
 **“The drill…the fleet…they are gone!”**
 
-And so it was, for nothing was left of the drill, nor the accompanying ships; all disappeared. And the only two entities left in the cosmic void, Rika and the flagship, now faced each other in the solemn silence of space.
+And so it was, for nothing was left of the drill, nor the accompanying ships; all disappeared. And the only two entities left in the cosmic void, Rika and the flagship, now faced each other in the solemn silence.
 
 The grand savant staggered back, one, two, then three steps, and fell in her chair. Her eyes filled up with tears, her lungs tightened to squeeze the last pockets of air. And then, as though sensing her terror, Rika’s Aranik shielding became, again, a perfect void.
 
