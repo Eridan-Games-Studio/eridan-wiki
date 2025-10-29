@@ -55,8 +55,6 @@ But then, the capitol ship was rocked again, and yanked with force. The revered 
 
 ---
 
-## The First Outcasts
-
 So fell the DZHIU, the **first of the outcasts**.
 
 ---
