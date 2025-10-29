@@ -12,7 +12,7 @@ In that fated day, the **DZHIU** descended on the **Rika space** in all of their
 
 Led by the revered savant **Arimnia CHA Derisendi Yo'h** aboard the flagship *Pride of DZHIU*, the entire fleet gathered around the **Solar Intum Drill**. A marvel of ingenuity, and a tool to defy fate, the drill was meant to be DZHIU’s final testament and the proof of their supremacy over all other races. Through it, they wished to best Rika’s impenetrable silence, and thus, in manifesting supremacy over Rika’s protective shielding, secure their position of ascendancy.
 
-As the ships slowly positioned behind the drill, a mesmerizing spectacle unfolded on the capitol's prime terrace. Here, four armed dancers moved to a gentle but primal beat, their bright green skin oiled with finest perfumes and clad in glistening precious metals. All over the capitol’s floating terraces, participants reveled in adulterated revelry, feasting and drinking in anticipation of their impending show of supremacy.
+As the ships slowly positioned behind the drill, a mesmerizing spectacle unfolded on the capitol's prime terrace. Here, four armed dancers moved to a gentle but primal beat, their bright green skin oiled with finest perfumes and clad in glistening precious metals. All over the capitol’s floating terraces, participants reveled, feasting and drinking in anticipation of their impending show of supremacy.
 
 But beneath their wide grins, and below the layers of imbibed elixirs, through the genetical vestiges of some long-forgotten ancestor, a **primal fear crept up like an uninvited guest**.
 
