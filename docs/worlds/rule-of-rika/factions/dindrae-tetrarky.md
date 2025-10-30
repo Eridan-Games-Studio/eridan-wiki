@@ -43,7 +43,7 @@ Importantly, these Dindrae also believe Ekata desires the elevation of other rac
 
 ---
 
-## Myth and Philosophy: The Story of Ekata
+## The Story of Ekata
 
 >In the vast expanse of the universe, in ages foregone and forgotten, a divine being known as **Ekata** was.  
 >It resided on a magnificent mountain, naked and in deep meditation, contemplating the wondrous complexity of all things — stars and beasts alike.  
