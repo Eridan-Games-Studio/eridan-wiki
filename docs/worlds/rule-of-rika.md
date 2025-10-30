@@ -40,7 +40,7 @@ Step into the narrative and witness the galaxy unfold.
 Meet the powers that shape the galaxy.
 
 **The Four Prime Contenders:**
-- [**Akvira Empire**](rule-of-rika/factions/akvira/Empress.md) — Warrior-mystics with prescient sight
+- [**Akvira Empire**](rule-of-rika/factions/akvira/akvira.md) — Warrior-mystics with prescient sight
 - [**Liguni Confluence**](rule-of-rika/factions/liguni/liguni-confluence.md) — Symbiotic minds in dark oceans
 - [**Dindrae Tetrarky**](rule-of-rika/factions/dindrae/dindrae-tetrarky) — Emotional empaths and crystal merchants
 - [**Zo Har Unity**](rule-of-rika/factions/zohar/zo-har.md) — The living swarm with a mysterious mission
