@@ -5,7 +5,7 @@
 
 ---
 
-## The Last of the Grand Races
+## The Most Enigmatic Grand Race
 
 The last of the grand races to enter the galactic stage is the **Zo Har**, a single organism of magnificent individual diversity. 
 Its **collective consciousness** and distributed organism is forged by a multitude of individual, interchangeable, and adaptive members.
