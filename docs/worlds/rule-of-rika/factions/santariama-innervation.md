@@ -1,4 +1,4 @@
-# SANTARIAMA INNERVATION
+# SANTARIANA INNERVATION
 
 > **"The greatest lovers in the galaxy… if you manage to survive their embrace."**  
 > — *Citrian Graffiti*
