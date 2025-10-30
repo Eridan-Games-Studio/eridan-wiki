@@ -76,7 +76,7 @@ The four races who answered Rika's call and now vie for ascendancy:
 | Race | Homeworld | Specialty | Current Status |
 |------|-----------|-----------|----------------|
 | **Akvira Empire** | Whaset Pyramid | Nebu metal, prescience | Expanding influence |
-| **Liguni Confluence** | Dark Ocean Depths | Symbiotic cognition | Strategic positioning |
+| **Liguni Confluence** | Dark Ocean Depths | Symbiotic species | Strategic positioning |
 | **Dindrae Tetrarky** | Mountain Polis | Emotional telepathy | Economic growth |
 | **Zo Har** | Nomadic Swarm | Terraforming | Mission-focused |
 
@@ -84,7 +84,7 @@ The four races who answered Rika's call and now vie for ascendancy:
 Races with significant influence but not among the prime contenders:
 
 - **Xia Distribution** — Multi personal androids whose personalities reside in the digital heavens. 
-- **Santariana Innervation** — An amalgam of various races, transformed through the Santariana spores.
+- **Santariana Innervation** — An amalgam of various races, transformed through the Bilja spores.
 - **Kyria Principality** — A humanoid race led by transcendent items
 
 ### The Outliers
