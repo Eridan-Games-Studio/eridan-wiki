@@ -13,17 +13,8 @@
 
 *RPGs*
 * [H.A.V.E.N RPG](games/haven-rpg.md)
-* [Rika: Aliens as Allies](games/rika-rpg.md)
+* [Rika: We are all aliens here](games/rika-rpg.md)
 
 *Tactical Games*
 * [Atomic Horizon: Warcaskets](games/atomic-horizon-warcaskets.md)
 
-**Development**
-* [Design Philosophy](development/design-philosophy.md)
-* [Game Development Process](development/game-development.md)
-* [World Building](development/world-building.md)
-
-**Community**
-* [Getting Started](community/getting-started.md)
-* [Player Resources](community/player-resources.md)
-* [Contributing](community/contributing.md)
