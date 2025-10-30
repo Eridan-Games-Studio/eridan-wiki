@@ -1,4 +1,15 @@
-# SANTARIANA INNERVATION
+# THE SANTARIAMA INNERVATION CODEX
+
+## Table of Contents
+- [Introduction](#introduction)
+- [The Garden](#the-garden)
+- [The Neuro‑Psychological Nature of the Innervated](#the-neuro‑psychological-nature-of-the-innervated)
+- [The Touch and the Embrace](#the-touch-and-the-embrace)
+- [“Geren and Girga”](#geren-and-girga)
+
+---
+
+## Introduction
 
 > **"The greatest lovers in the galaxy… if you manage to survive their embrace."**  
 > — *Citrian Graffiti*
@@ -45,7 +56,6 @@ Their facial expressions, perspiration, heart rate, breathing, the twitching of 
 
 ---
 
-***********
 ## “Geren and Girga”
 
 > ”I don’t know”, she replied. ”It really doesn’t seem right to me that you should go and leave everything you have here just to become infected on that accursed planet, and for what? For an experience thrill?!”
@@ -74,3 +84,5 @@ Their facial expressions, perspiration, heart rate, breathing, the twitching of 
 
 > ”I am sorry, Geren, but that is not the life for me; you know that. You knew that from the start.”  
 > She tightened her lips, face downward, to hide the coming tears, her self‑confidence dropping, knowing he was right.
+
+---
