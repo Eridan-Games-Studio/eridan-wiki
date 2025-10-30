@@ -91,6 +91,42 @@ Kanghui Du blinked once and twice, eyes never leaving her figure.
 
 ---
 
+
+# Stranded
+
+XinZhu despised this endless gray sky.  
+Its oppressive hue weighed down on his interstitial consciousness, squeezing him with the force of a hydraulic press, and he utterly disliked the sensation.
+
+Moreover, he felt that he hated the sensation, but the effect of hate had long since been erased from the **Distribution's core banks**, and XinZhu wasn't sure what to feel about that fact.  
+*Compassion?* This interpretation was a strange concept to him, so at least his recursive function responded.
+
+---
+
+He did a quick check of his **ontological connections**, but the distribution he was currently stored with was of low bandwidth and he couldn't get much out of it.
+
+“Gods, I have been left half blind on this abandoned world.”
+
+> “Gods?” The Dominant intervened to recall the internal representations.  
+
+“The Xia do not believe in gods. Why do I make such connections?”
+
+> “I believe your interstitial coherence is being gnawed away, and there is cross‑reference memory contamination,” replied the **Permanent**.
+
+> “The Source?” demanded the Dominant.
+
+Another layered self broke through and came up with a concept:  
+> “The Scrapper.”
+
+“The Scrapper? What was that?” Xin thought.  
+“Some kind of package... One I have to bring... but where?”
+
+---
+
+A single raindrop fell on his face and XinZhu realized he was still looking at the sky, unflinchingly, as the clouds loomed ever so closer.  
+His steel face frowned. 
+*Gods he hated this sky.*  
+And it seemed to be pressing on him by the minute.
+
 ## Related Pages
 
 - [→ Rule of Rika Home](../../rule-of-rika.md)  
