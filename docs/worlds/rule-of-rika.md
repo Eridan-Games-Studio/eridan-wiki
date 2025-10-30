@@ -47,8 +47,8 @@ Meet the powers that shape the galaxy.
 
 **The Three Intermediate Contenders:**
 - [**Santariana Innervation**](docs/worlds/rule-of-rika/factions/santariana/santariana.md) —
-- - [**XIA Distribution**](docs/worlds/rule-of-rika/factions/xia/xia-distribution.md) —
-
+- [**XIA Distribution**](docs/worlds/rule-of-rika/factions/xia/xia-distribution.md) —
+- [**Kyria Principality**] —
 
 [→ All Factions](factions/index)
 
