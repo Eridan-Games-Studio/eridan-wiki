@@ -27,9 +27,11 @@ This is the age of high adventure, where empires clash on sacred ground, where a
 
 ### 📖 **Experience the Stories**
 Step into the narrative and witness the galaxy unfold.
-- [**Prologue: Before the Rika**](fiction/00-prologue) — The prophecy and Rika's arrival (upcoming)
+
+- [**Prologue: Before the Rika**](fiction/00-prologue.md) — The prophecy and Rika's arrival (upcoming)
 - [**The DZHIU Demise**](fiction/01-the-dzhiu-demise.md) — A cautionary tale of defiance
-[→ All Fiction](fiction/index)
+
+[→ All Fiction](fiction/index.md)
 
 </td>
 <td width="50%">
