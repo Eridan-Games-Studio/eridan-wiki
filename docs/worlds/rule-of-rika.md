@@ -53,48 +53,6 @@ Meet the powers that shape the galaxy.
 
 ---
 
-## Quick Navigation
-
-| Section | Description |
-|---------|-------------|
-| **[Fiction](fiction/index)** | Story arcs, chapters, and narrative content |
-| **[Factions](factions/index)** | Prime contenders, intermediate powers, and outliers |
-| **[Myths](systems/index)** | The Call, The Pilgrimage, and other galactic myths |
-| **[Technology](technology/index)** | Nebu metal, terraforming, Dhana crystals, and more |
-| **[Characters](characters/index)** | Named individuals across the galaxy |
-| **[Locations](locations/index)** | Rika, The Garden, and other key worlds |
-| **[Glossary](meta/glossary)** | Terms, concepts, and translations |
-
----
-
-## The Galaxy at a Glance
-
-### The Prime Contenders
-The four races who answered Rika's call and now vie for ascendancy:
-
-| Race | Homeworld | Specialty | Current Status |
-|------|-----------|-----------|----------------|
-| **Akvira Empire** | Whaset Pyramid | Nebu metal, prescience | Expanding influence |
-| **Liguni Confluence** | Dark Ocean Depths | Symbiotic species | Strategic positioning |
-| **Dindrae Tetrarky** | Mountain Polis | Emotional telepathy | Economic growth |
-| **Zo Har** | Nomadic Swarm | Terraforming | Mission-focused |
-
-### The Intermediate Powers
-Races with significant influence but not among the prime contenders:
-
-- **Xia Distribution** — Multi personal androids whose personalities reside in the digital heavens. 
-- **Santariana Innervation** — An amalgam of various races, transformed through the Bilja spores.
-- **Kyria Principality** — A humanoid race led by transcendent items
-
-### The Outliers
-Those who exist outside Rika's established order:
-
-- **Independents** — Led by Vitruni moon ships in galactic outskirts
-- **Usurpers** — Anhuru Aristocracy and Wild Progeny seeking to reshape order
-- **Outcasts** — Races like the DZHIU who challenged Rika and failed
-
----
-
 ## Games & Media
 
 ### Set in This Universe
