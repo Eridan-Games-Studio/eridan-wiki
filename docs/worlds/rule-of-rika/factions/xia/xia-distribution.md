@@ -34,7 +34,6 @@ The Dominant broke away from his calculations, triggered by urgency:
 
 ---
 
-## The Matriarch
 
 The Matriarch came closer now, just in time for Du to wrap up his internal graphs of the tower malfunction. She extended her arms in a sign of warm greeting as her voice boomed beneath her trunk.  
 
@@ -48,7 +47,6 @@ Her eyes narrowed, and Du could perceive a small trail of hot air venting from h
 
 ---
 
-## The Exchange
 
 > “I am taking over,” overlaid the Dominant, relegating the calculation management to the Permanent and subtracting the Instrumental.  
 
