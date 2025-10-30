@@ -40,14 +40,14 @@ Step into the narrative and witness the galaxy unfold.
 Meet the powers that shape the galaxy.
 
 **The Four Prime Contenders:**
-- [**Akvira Empire**](docs/worlds/rule-of-rika/factions/akvira/Culture.md) — Warrior-mystics with prescient sight
-- [**Liguni Confluence**](docs/worlds/rule-of-rika/factions/liguni/liguni-confluence.md) — Symbiotic minds in dark oceans
-- [**Dindrae Tetrarky**](docs/worlds/rule-of-rika/factions/dindrae-tetrarky) — Emotional empaths and crystal merchants
-- [**Zo Har Unity**](docs/worlds/rule-of-rika/factions/zohar) — The living swarm with a mysterious mission
+- [**Akvira Empire**](rule-of-rika/factions/akvira/Culture.md) — Warrior-mystics with prescient sight
+- [**Liguni Confluence**](rule-of-rika/factions/liguni/liguni-confluence.md) — Symbiotic minds in dark oceans
+- [**Dindrae Tetrarky**](rule-of-rika/factions/dindrae-tetrarky) — Emotional empaths and crystal merchants
+- [**Zo Har Unity**](rule-of-rika/factions/zohar) — The living swarm with a mysterious mission
 
 **The Three Intermediate Contenders:**
-- [**Santariana Innervation**](docs/worlds/rule-of-rika/factions/santariana/santariana.md) —
-- [**XIA Distribution**](docs/worlds/rule-of-rika/factions/xia/xia-distribution.md) —
+- [**Santariana Innervation**](rule-of-rika/factions/santariana/santariana.md) —
+- [**XIA Distribution**](rule-of-rika/factions/xia/xia-distribution.md) —
 - [**Kyria Principality**] —
 
 [→ All Factions](factions/index)
