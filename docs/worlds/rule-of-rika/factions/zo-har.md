@@ -87,7 +87,16 @@ That which remains obvious however is that the Zo Har, led by their enigmatic mi
 
 ## BUY IT NOW!!!
 
-> *For the love of the Twelve Virgins of Mandros, listen to me Arunda! If you leave this system up for grabs, the Dindrae will burst the market with a price that no other broker will be able to recover from! And I have direct confirmation that Yizru, the chief trader of Solania, is already transacting another strategic planetoid to offer as compensation for the bugs! So now we have to worry about both of them! And don't ask me how in the darkest depths of his ocean did the symbiont get the information. Who can grasp Liguni's minds?! I swear, sometimes I would rather be put on an Innervation Pain Tree to rattle my bones for the entire day than do business with these specialized jacks. So! If they are on it, then this system is worth dozens of cycles of effort! You must buy it now! And I don't care if you have to borrow from the Akvira or the Xia again! Offer them the tons of Belurian Gas you have stored in your private cache. Yes, the ones you think no one else knows about! MOVE!*  
+> *For the love of the Twelve Virgins of Mandros, listen to me Arunda!
+> If you leave this system up for grabs, the Dindrae will burst the market with a price that no other broker will be able to recover from!
+> And I have direct confirmation that Yizru, the chief trader of Solania, is already transacting another strategic planetoid to offer as compensation for the bugs!
+> So now we have to worry about both of them! And don't ask me how in the darkest depths of his ocean did the symbiont get the information. Who can grasp Liguni's minds?!
+> I swear, sometimes I would rather be put on an Innervation Pain Tree to rattle my bones for the entire day than do business with these specialized jacks.
+> So! If they are on it, then this system is worth dozens of cycles of effort!
+> You must buy it now!
+> And I don't care if you have to borrow from the Akvira or the Xia again!
+> Offer them the tons of Belurian Gas you have stored in your private cache.
+> Yes, the ones you think no one else knows about! MOVE!*  
 
 ---
 
