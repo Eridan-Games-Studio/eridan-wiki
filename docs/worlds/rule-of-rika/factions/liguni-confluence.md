@@ -33,24 +33,20 @@ For this reason, other species have had many problems in understanding the Ligun
 
 ## Historical Record
 
-> *Inborn system, Galactic Enc. Entry, 12a5gZ — as depicted by Rolan Aunderian, The Society of Wyr:*
+> **Inborn system, Galactic Enc. Entry, 12a5gZ — as depicted by Rolan Aunderian, The Society of Wyr:**
 
-> *"By the stars! These battles could have spiraled into a full‑fledged interspecies war, one that may have even aroused the wrath of the Guardians themselves."*
+> By the stars!
+> These battles could have spiraled into a full-fledged interspecies war, one that may have even aroused the wrath of the Guardians themselves.
+> But lo and behold, the Terran Autarky, without a single word of warning, and in true fashion of their unbridled, barbaric, might, folded space directly into the biggest and most intensive space battle, and instantly triggered a reality- ossification of the entire area.
 
-The official galactic encyclopedia notes that before the consolidation of **Rika**, the Liguni had waged more battles than any current member of the galactic council.  
-The longest series of battles was fought with the **Akvira**, over the **Indorn systems**, located at a crucial strategic point near the **Auxilia nexus gate** on their joint galactic border.
+> Their secretive Esoterika class Devastators armed to teeth, and in full power, boosted the Autark's message through the sector, who, ever so ready for a bloodbath, immediately threatened, to scour the entire region and all of its fighting force to ash if the belligerents did not immediately lay down their arms and dispatch their negotiators to the Autark flagship.
+Unwilling to provoke a reaction, both the Liguni and the Akvira heeded the demands, and quickly embarked to meet in the diplomat's center aboard the flagship.
 
-This point in galactic history marks the end of the **Twilight Era**, and the start of a new phase of recognition for both races, signaled by a rare intervention of the **roaring Terran Autarky**.
+>Surprisingly, for the first time in the annals of galactic history, to end the conflict the Autarks provided the assistance of their Melders, an occurrence which substantiated the rumors that the reason why the Autarky moved in to stop the conflict was to prevent an imminent Guardian cleansing.
+Here, sitting on the fur-clad seats of the Autarks, the Akviran and Liguni chancellors were melded, the Liguni's thought process was laid bare and the Akvira immediately understood the cause of the dispute. Thus, a treaty was forged and an official request to accept the Liguni ambassadors into the galactic council was sent, marking a great landmark in galactic affairs.
+>"*
 
-> *"But lo and behold, the Terran Autarky, without a single word of warning — and in true fashion of their unbridled, barbaric might — folded space directly into the biggest and most intensive space battle, and instantly triggered a reality‑ossification of the entire area. Their secretive Esoterika‑class Devastators, armed to the teeth and in full power, boosted the Autark's message through the sector, who — ever so ready for a bloodbath — immediately threatened to scour the entire region and all of its fighting force to ash if the belligerents did not immediately lay down their arms and dispatch their negotiators to the Autark flagship."*
 
-Unwilling to provoke a reaction, both the Liguni and the Akvira heeded the demands and quickly embarked to meet in the diplomatic center aboard the flagship.
-
-Surprisingly, for the first time in the annals of galactic history, to end the conflict the Autarks provided the assistance of their **Melders**, an occurrence which substantiated the rumors that the reason why the Autarky moved in to stop the conflict was to prevent an imminent **Guardian cleansing**.
-
-Here, sitting on the fur‑clad seats of the Autarks, the Akviran and Liguni chancellors were melded.  
-The Liguni's thought process was laid bare, and the Akvira immediately understood the cause of the dispute.  
-Thus, a treaty was forged, and an official request to accept the **Liguni ambassadors** into the galactic council was sent — marking a great landmark in galactic affairs.
 
 ---
 
@@ -82,7 +78,8 @@ Here, as is accustomed to Liguni, the Dhul entering the Rika battle will be **bi
 The symbiont executed a circular waving gesture, its suction cups closing and opening in an intricate pattern too complex to follow even with my ocular apparatus. Yet, the translator registered a palpable sense of contentment, satisfaction, and possibly even a hint of self‑importance stemming from my recognition of their bargaining prowess.
 
 > *"Affirmative,"* the machine projected a rough encapsulation of its cogitations. *"Our endeavors are united, as are yours. Your decline is our ascent, and our collapse is your rise."*  
-> The swirling of its tentacles continued for a moment and then froze and fell limpid, the Liguni still levitating a couple of centimeters above the ground.
+
+The swirling of its tentacles continued for a moment and then froze and fell limpid, the Liguni still levitating a couple of centimeters above the ground.
 
 Swiftly, I communicated with my Subpersona via a covert subcarrier:  
 *"By Arcturus, I said to steal the data, not to slay it!"*  
