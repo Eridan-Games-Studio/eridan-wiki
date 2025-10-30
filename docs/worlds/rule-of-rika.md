@@ -1,7 +1,7 @@
 # Rule of Rika
 
 > *"Wait for her arrival and prove your worth in ages to come. The path awaits."*  
-> — Ar Kharazon, Last Grand Vizjerei of the Dominion Ascendancy
+> — Ar Kharazon, Last Grand Vizjereen of the Dominion Ascendancy
 
 ---
 
