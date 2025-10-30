@@ -41,7 +41,7 @@ Step into the narrative and witness the galaxy unfold.
 Meet the powers that shape the galaxy.
 
 **The Four Prime Contenders:**
-- [**Aquila Empire**](factions/prime-contenders/aquila-empire) — Warrior-mystics with prescient sight
+- [**Aquila Empire**](factions/prime-contenders/akvira/Culture) — Warrior-mystics with prescient sight
 - [**Liguni Confluence**](factions/prime-contenders/liguni-confluence) — Symbiotic minds in dark oceans
 - [**Dindrae Tetrarky**](factions/prime-contenders/dindrae-tetrarky) — Emotional empaths and crystal merchants
 - [**Zo Har**](factions/prime-contenders/zo-har) — The living swarm with a mysterious mission
