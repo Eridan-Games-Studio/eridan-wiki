@@ -60,8 +60,7 @@ Du’s body expanded slightly in the shoulders, the halo above his head now glea
 
 “Not threatening your sovereignty,” Du responded in a cool, secure voice. 
 “We just wish to take this matter seriously. 
-The connection I am currently running on is a high-speed one, and I can report back to my heaven for further assistance if required -
-- Matriarch.”  
+The connection I am currently running on is a high-speed one, and I can report back to my heaven for further assistance if required...Matriarch.”  
 
 "Oh, is that so?” She let loose a big grin, the fur on her neck electrifying. 
 “So, the distribution is ready to invest more resources into the completion of this service? 
