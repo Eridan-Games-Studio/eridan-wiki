@@ -32,9 +32,6 @@ The Dominant broke away from his calculations, triggered by urgency:
 
 > “No need,” responded Du, “the Matriarch will need technical advice anyway.”  
 
----
-
-
 The Matriarch came closer now, just in time for Du to wrap up his internal graphs of the tower malfunction. She extended her arms in a sign of warm greeting as her voice boomed beneath her trunk.  
 
 > “Kanghui Du! My favorite distribution!” she bellowed. “How is the connection?"  
@@ -44,9 +41,6 @@ The Matriarch came closer now, just in time for Du to wrap up his internal graph
 > “Bah!” she responded, stomping her four hooves into the ground. “The merchant guild is getting on my nerves by the day. They are eager to connect with the distribution network, but there is little I can offer them. Thus I come to you, engineer."  
 
 Her eyes narrowed, and Du could perceive a small trail of hot air venting from her ears — a sign of clear anger.  
-
----
-
 
 > “I am taking over,” overlaid the Dominant, relegating the calculation management to the Permanent and subtracting the Instrumental.  
 
@@ -71,8 +65,6 @@ She stomped her right hoof into the dirt.
 > “With Xia haste!”  
 
 She waved her massive fur-covered arm and galloped away.  
-
----
 
 Kanghui Du blinked once and twice, looking after the Matriarch as her figure slowly receded into the horizon.  
 > “Unpack the other Shen,” the Dominant instructed. “They need to prepare for the report.”  
