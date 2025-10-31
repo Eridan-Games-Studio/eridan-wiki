@@ -43,7 +43,6 @@ You're always expecting the worst — and sometimes you're right. Once per missi
 ---
 
 ## See Also
-
-- [[Character-Creation]] - Build your character
-- [[Callings]] - Choose your archetype
-- [[Core-Rules]] - Learn the game mechanics
+- [Character Creation](Character-Creation.md) - Build your character  
+- [Callings](Callings.md) - Choose your archetype  
+- [Core Rules](Core-Rules.md) - Learn the game mechanics
