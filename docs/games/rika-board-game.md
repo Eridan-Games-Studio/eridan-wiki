@@ -26,7 +26,7 @@ This is a 2vs2 fully asymmetrical card driven skirmish game with unique rules an
 
 ## World
 
-Set in [The Rule of Rika](worlds/rule-of-rika.md) universe, where alien civilizations with radically different biologies engage in cosmic contests orchestrated by the sentient planetoid Rika.
+Set in The Rule of Rika universe, where alien civilizations with radically different biologies engage in cosmic contests orchestrated by the sentient planetoid Rika.
 
 ## Development Team
 

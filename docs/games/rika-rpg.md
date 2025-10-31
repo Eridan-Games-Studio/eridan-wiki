@@ -24,7 +24,7 @@ Therapeutically inspired deeply relational narrative RPG set in the Rule of Rika
 
 ## World
 
-Set in [The Rule of Rika](worlds/rule-of-rika.md) universe, where civilizations are fundamentally alien realities with unique ways of perceiving and interacting with the cosmos.
+Set in [The Rule of Rika](worlds//rule-of-rika/rule-of-rika.md) universe, where civilizations are fundamentally alien realities with unique ways of perceiving and interacting with the cosmos.
 
 ## Development Team
 

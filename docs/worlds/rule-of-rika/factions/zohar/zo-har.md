@@ -39,6 +39,8 @@ To this present day, it remains unknown how precisely the Zo Har communicate acr
 
 Still, in localized, planet-based, communications the Zo Har relies on a set of various signals, including light, sound, and smell. Thus, it will not be a rare sight to behold a group of Zo Har members rapidly changing the color of their armor, emitting strong scents, flashing light from the tip of their appendages, or producing short interval sounds by their chitinous wings, which will be interwoven to produce complex melodies, all while operating in a single area.
 
+---
+
 > *"It will not be uncommon for a large group of outsiders, from various races and under some of the best galactic travel agencies, to attend Zo Har gatherings, simply to enjoy and record these musical and light spectacles as one would a favourite concert. The Zo Har do not usually mind this observation, but the agencies have learned that it remains best to enjoy the scene from a great distance and not within the perimeter of Zo Har activity, the discovery of which has proved gruesome in some initial travels".*  
 
 — *Volod’s Guide to the Galaxy, pp.55*
@@ -118,3 +120,12 @@ Once this phenomenon is complete, the tower will dry out within hours and the Zo
 
 ---
 
+
+## Explore More
+
+- [[rule-of-rika|Rule of Rika Overview]]
+- [[akvira|Akvira Empire Codex]]
+- [[dindrae-tetrarky|Dindrae Tetrarky Codex]]
+- [[liguni-confluence|Liguni Confluence Codex]]
+- [[santariana|Santariana Innervation Codex]]
+- [[xia-distribution|XIA Distribution Codex]]

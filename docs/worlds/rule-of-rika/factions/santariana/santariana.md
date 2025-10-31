@@ -86,3 +86,12 @@ Their facial expressions, perspiration, heart rate, breathing, the twitching of 
 > She tightened her lips, face downward, to hide the coming tears, her self‑confidence dropping, knowing he was right.
 
 ---
+
+## Explore More
+
+- [[rule-of-rika|Rule of Rika Overview]]
+- [[akvira|Akvira Empire Codex]]
+- [[dindrae-tetrarky|Dindrae Tetrarky Codex]]
+- [[liguni-confluence|Liguni Confluence Codex]]
+- [[xia-distribution|XIA Distribution Codex]]
+- [[zo-har|Zo Har Unity Codex]]

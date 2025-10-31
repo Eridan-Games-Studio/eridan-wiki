@@ -59,9 +59,8 @@ So fell the DZHIU, the **first of the outcasts**.
 
 ---
 
-## Related Pages
 
-- [→ Prologue: Before the Rika](00-prologue.md)
-- [→ Akvira Empire](../factions/prime-contenders/akvira-empire.md)
-- [→ Rika's Judgment](../systems/rika-judgment.md)
-- [→ Return to Fiction Index](index.md)
+## Explore More
+
+- [[rule-of-rika|Rule of Rika Overview]]
+- [[00-prologue|Prologue: Before the Rika]]

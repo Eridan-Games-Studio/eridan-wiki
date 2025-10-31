@@ -129,5 +129,13 @@ Not all of these gems will be harvested, however, since each Dindrae will allow 
 
 — *From the treatise “Observing the Dindrae” by Mikron Aules, 25th librarian of Solana.*
 
----
+
+## Explore More
+
+- [[rule-of-rika|Rule of Rika Overview]]
+- [[akvira|Akvira Empire Codex]]
+- [[liguni-confluence|Liguni Confluence Codex]]
+- [[santariana|Santariana Innervation Codex]]
+- [[xia-distribution|XIA Distribution Codex]]
+- [[zo-har|Zo Har Unity Codex]]
 

@@ -38,6 +38,7 @@ The Instrumental replied swiftly in a joyful tempo,
 > “The conflux scanner it is!”  
 
 The Interstitial Space moved from within Du as the Instrumental came forward, the right hand changing into the form of a **twin fork conflux scanner**.  
+
 “This will do,” said Du, as the Instrumental’s playfulness permeated his awareness, eager to investigate a solution.  
 
 Some time passed, and Du found the source of the error.  
@@ -139,12 +140,14 @@ And it seemed to be pressing on him by the minute.
 
 ---
 
-## Related Pages
+## Explore More
 
-- [→ Rule of Rika Home](../../rule-of-rika.md)  
-- [→ Factions Index](../factions/index.md)  
-- [→ The Liguni Confluence](../factions/prime-contenders/liguni-confluence.md)
-
+- [[rule-of-rika|Rule of Rika Overview]]
+- [[akvira|Akvira Empire Codex]]
+- [[dindrae-tetrarky|Dindrae Tetrarky Codex]]
+- [[liguni-confluence|Liguni Confluence Codex]]
+- [[santariana|Santariana Innervation Codex]]
+- [[zo-har|Zo Har Unity Codex]]
 ---
 
 ……….

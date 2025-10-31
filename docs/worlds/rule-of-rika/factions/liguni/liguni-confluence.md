@@ -7,7 +7,7 @@
 - [Technology](#technology)
   - [Combat Doctrine](#combat-doctrine)
 - [Negotiation Scene](#negotiation-scene)
-- [Related Pages](#related-pages)
+
 
 ---
 
@@ -123,12 +123,13 @@ I shrugged and surrendered with a courteous gesture, as demanded of a defeated p
 
 ---
 
-## Related Pages
+## Explore More
 
-- [→ Akvira Empire](../factions/prime-contenders/akvira-empire.md)  
-- [→ Rule of Rika Home](../../rule-of-rika.md)  
-- [→ The Call](../systems/the-call.md)
-
+- [[rule-of-rika|Rule of Rika Overview]]
+- [[akvira|Akvira Empire Codex]]
+- [[dindrae-tetrarky|Dindrae Tetrarky Codex]]
+- [[santariana|Santariana Innervation Codex]]
+- [[xia-distribution|XIA Distribution Codex]]
+- [[zo-har|Zo Har Unity Codex]]
 ---
 
-……….
