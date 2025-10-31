@@ -4,7 +4,7 @@ A Supernatural Noir Roleplaying Game of Crime, Occult, and Paranormal Hauntings 
 
 ## Content in this book:
 
-- [Introduction and how to play](Welcome-to-Haven.md)
+- [Introduction and how to play](#/worlds/haven/Welcome-to-Haven.md)
 - [Callings (RPG characters/playbooks)](Callings.md)
 - [Character traits](Character-Traits.md)
 - [Character creation guide](Character-Creation.md)
