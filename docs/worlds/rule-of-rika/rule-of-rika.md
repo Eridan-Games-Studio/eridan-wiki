@@ -28,8 +28,8 @@ This is the age of high adventure, where empires clash on sacred ground, where a
 ### 📖 **Experience the Stories**
 Step into the narrative and witness the galaxy unfold.
 
-- [**Prologue: Before the Rika**](00-prologue.md) — The prophecy and Rika's arrival (upcoming)
-- [**The DZHIU Demise**](01-the-dzhiu-demise.md) — A cautionary tale of defiance
+- [**Prologue: Before the Rika**](fiction/00-prologue.md) — The prophecy and Rika's arrival (upcoming)
+- [**The DZHIU Demise**](fiction/01-the-dzhiu-demise.md) — A cautionary tale of defiance
 
 
 
@@ -40,14 +40,14 @@ Step into the narrative and witness the galaxy unfold.
 Meet the powers that shape the galaxy.
 
 **The Four Prime Contenders:**
-- [**Akvira Empire**](akvira.md) — Warrior-mystics with prescient sight
-- [**Liguni Confluence**](liguni-confluence.md) — Symbiotic minds in dark oceans
-- [**Dindrae Tetrarky**](dindrae-tetrarky.md) — Emotional empaths and crystal merchants
-- [**Zo Har Unity**](zo-har.md) — The living swarm with a mysterious mission
+- [**Akvira Empire**](factions/akvira/akvira.md) — Warrior-mystics with prescient sight
+- [**Liguni Confluence**](factions/liguni/liguni-confluence.md) — Symbiotic minds in dark oceans
+- [**Dindrae Tetrarky**](factions/dindrae/dindrae-tetrarky.md) — Emotional empaths and crystal merchants
+- [**Zo Har Unity**](factions/zohar/zo-har.md) — The living swarm with a mysterious mission
 
 **The Three Intermediate Contenders:**
-- [**Santariana Innervation**](santariana.md) —
-- [**XIA Distribution**](xia-distribution.md) —
+- [**Santariana Innervation**](factions/santariana/santariana.md) —
+- [**XIA Distribution**](factions/xia/xia-distribution.md) —
 
 
 

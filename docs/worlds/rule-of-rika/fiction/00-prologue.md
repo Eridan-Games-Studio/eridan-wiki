@@ -57,5 +57,5 @@ And so, at last, the next Great Cycle was given birth, and with it, the age of h
 
 ## Explore More
 
-- [Rule of Rika Overview](rule-of-rika.md)
+- [Rule of Rika Overview](../rule-of-rika.md)
 - [The DZHIU Demise](01-the-dzhiu-demise.md)
