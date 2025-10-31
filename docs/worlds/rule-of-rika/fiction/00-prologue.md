@@ -1,10 +1,9 @@
 # Prologue: Before the Rika
 
-> *"Wait for her arrival and prove your worth in ages to come. The path awaits."*  
+> *"The path stands ready for the worthy."*  
 > — Ar Kharazon, Last Grand Vizjerei
 
 ---
-# Before the Rika
 
 Between the time when the **Gorion Star** went supernova and the **Vikonian Dynasty** drew its last breath, the **Dominion Xaurid**, the last of the ancient guardians, ascended into the **HenceForth**.  
 
