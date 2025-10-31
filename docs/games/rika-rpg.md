@@ -1,5 +1,4 @@
-# Rika: Aliens as Allies
-
+# Rika: We are all aliens here
 A **deeply relational space‑opera RPG** inspired by psychotherapeutic principles.
 
 By inhabiting radically different alien minds, you'll explore the world—and discover your own character—through their *distinct ways of sensing, thinking, and relating*.
@@ -24,7 +23,7 @@ Therapeutically inspired deeply relational narrative RPG set in the Rule of Rika
 
 ## World
 
-Set in [The Rule of Rika](worlds//rule-of-rika/rule-of-rika.md) universe, where civilizations are fundamentally alien realities with unique ways of perceiving and interacting with the cosmos.
+Set in The Rule of Rika universe, where civilizations are fundamentally alien realities with unique ways of perceiving and interacting with the cosmos.
 
 ## Development Team
 
