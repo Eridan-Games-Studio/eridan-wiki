@@ -24,17 +24,20 @@ Whatever data container they have, they will also place, and in response, the cr
 
 And upon returning to their ships, they will find that same verdict etched into their vessels' core memories.
 
-This is the way of the **Pilgrimage**.
-
----
-
-### The Call
-
-But there is another path — **The Call**.
+This is the way of the **Pilgrimage**. But there is another path — **The Call**.
 
 A broadcast will be sent from Rika, across all communications, and also directly into the carriers of the target groups — delivering a simple message: *the Date, Time, Races, and the Goal for the Call.*
 
-The content of the Call may vary. Rika may summon two groups to settle their disputes through **"The Rite"** on her hallowed grounds. This may often include actors whose conflicts threaten to destabilize the galaxy. A trade war, a growing military conflict, or a fervent cultural battle often holds the highest potential to trigger **The Call**.
+---
+
+### The Rite
+
+The content of the Call may vary. 
+
+Here, Rika may summon two groups to settle their disputes through **"The Rite"** on her hallowed grounds. 
+
+This may often include actors whose conflicts threaten to destabilize the galaxy. 
+A trade war, a growing military conflict, or a fervent cultural battle often holds the highest potential to trigger **The Rite**.
 
 However, and more mysteriously, the Call will sometimes summon agents engaged in slight offenses — such as a break in diplomatic ties or a seemingly insignificant skirmish in space.
 
