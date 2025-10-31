@@ -1,9 +1,9 @@
 * [Home](/index.md)
 
 **Worlds**
-* [The Rule of Rika](worlds/rule-of-rika.md)
+* [The Rule of Rika](worlds/rule-of-rika/rule-of-rika.md)
 * [Atomic Horizon](worlds/atomic-horizon.md)
-* [H.A.V.E.N](worlds/haven.md)
+* [H.A.V.E.N](worlds/haven/home.md)
 
 **Games**
 
