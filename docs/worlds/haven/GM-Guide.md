@@ -470,7 +470,7 @@ My suggestion would be, if you play multiple sessions with the same characters, 
 
 ## See Also
 
-- [[Core-Rules]] - Core game mechanics
-- [[Callings]] - Player archetypes
-- [[The-City-of-Haven]] - Setting information
-- [[Welcome-to-Haven|How to Play]] - Basic gameplay
+[Core Rules](Core-Rules.md) - Core game mechanics  
+[Callings](Callings.md) - Player archetypes  
+[The City of Haven](The-City-of-Haven.md) - Setting information  
+[How to Play](Welcome-to-Haven.md) - Basic gameplay
