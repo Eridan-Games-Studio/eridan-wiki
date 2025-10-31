@@ -264,9 +264,3 @@ Downtime has no strict limit — players decide when they're ready for the next 
 [Character Creation](Character-Creation.md) - Build your character  
 [GM Guide](GM-Guide.md) - Running the game  
 [The City of Haven](The-City-of-Haven.md) - Explore the setting
-## See Also
-
-- [[Callings]] - Choose your archetype
-- [[Character-Creation]] - Build your character
-- [[GM-Guide]] - Running the game
-- [[The-City-of-Haven]] - Explore the setting
