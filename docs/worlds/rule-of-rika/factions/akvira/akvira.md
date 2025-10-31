@@ -161,9 +161,9 @@ An instant before the impact, the bionic talons released with a loud clank, and 
 
 ## Explore More
 
-- [[rule-of-rika|Rule of Rika Overview]]
-- [[dindrae-tetrarky|Dindrae Tetrarky Codex]]
-- [[liguni-confluence|Liguni Confluence Codex]]
-- [[santariana|Santariana Innervation Codex]]
-- [[xia-distribution|XIA Distribution Codex]]
-- [[zo-har|Zo Har Unity Codex]]
+- [Rule of Rika Overview](rule-of-rika.md)
+- [Dindrae Tetrarky Codex](dindrae-tetrarky.md)
+- [Liguni Confluence Codex](liguni-confluence.md)
+- [Santariana Innervation Codex](santariana.md)
+- [XIA Distribution Codex](xia-distribution.md)
+- [Zo Har Unity Codex](zo-har.md)

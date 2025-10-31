@@ -142,12 +142,12 @@ And it seemed to be pressing on him by the minute.
 
 ## Explore More
 
-- [[rule-of-rika|Rule of Rika Overview]]
-- [[akvira|Akvira Empire Codex]]
-- [[dindrae-tetrarky|Dindrae Tetrarky Codex]]
-- [[liguni-confluence|Liguni Confluence Codex]]
-- [[santariana|Santariana Innervation Codex]]
-- [[zo-har|Zo Har Unity Codex]]
+- [Rule of Rika Overview](rule-of-rika.md)
+- [Akvira Empire Codex](akvira.md)
+- [Dindrae Tetrarky Codex](dindrae-tetrarky.md)
+- [Liguni Confluence Codex](liguni-confluence.md)
+- [Santariana Innervation Codex](santariana.md)
+- [Zo Har Unity Codex](zo-har.md)
 ---
 
 ……….

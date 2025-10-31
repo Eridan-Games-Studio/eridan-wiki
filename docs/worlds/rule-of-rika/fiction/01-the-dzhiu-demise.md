@@ -62,5 +62,5 @@ So fell the DZHIU, the **first of the outcasts**.
 
 ## Explore More
 
-- [[rule-of-rika|Rule of Rika Overview]]
-- [[00-prologue|Prologue: Before the Rika]]
+- [Rule of Rika Overview](rule-of-rika.md)
+- [Prologue: Before the Rika](00-prologue.md)

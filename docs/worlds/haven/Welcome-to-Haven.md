@@ -10,7 +10,7 @@ You can't win against Haven — you can only learn how to live in its rhythm.
 
 ## Playing H.A.V.E.N.
 
-As a player, you'll take on a [[Callings|Calling]] — an archetype like Private Investigator, Rumormonger, or Haunted One.
+As a player, you'll take on a [Calling](Callings.md) — an archetype like Private Investigator, Rumormonger, or Haunted One.
 
 Together with your group, you'll solve cases, confront the paranormal, and try to stay one step ahead of a city that's always watching.
 
@@ -33,7 +33,7 @@ If the table agrees that what you're doing matters, roll for it.
 
 ## Next Steps
 
-- Learn [[Core-Rules|the dice system and core mechanics]]
-- Explore [[Callings|the available Callings]]
-- Discover [[The-City-of-Haven|the world of Haven]]
-- Create [[Character-Creation|your character]]
+- Learn [the dice system and core mechanics](Core-Rules.md)
+- Explore [the available Callings](Callings.md)
+- Discover [the world of Haven](The-City-of-Haven.md)
+- Create [your character](Character-Creation.md)

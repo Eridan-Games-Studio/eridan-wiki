@@ -31,7 +31,7 @@ Tier 2 (Scraping by). You scrape by on small jobs and favors. Bills are always n
 
 ### Reputation Options
 
-Choose one of the following at [[Character-Creation|character creation]]:
+Choose one of the following at [character creation](Character-Creation.md):
 
 **+1 Reputation with Haven PD.** You have contacts in the precinct, but a notable police commissioner hates your guts and will gladly make your life harder.
 
@@ -39,11 +39,11 @@ Choose one of the following at [[Character-Creation|character creation]]:
 
 ### Signature Ability – Calling in Favors
 
-Spend 3 [[Core-Rules#preparation-pool|Preparation dice]] to establish a contact, informant, or group you "just happen to know." Describe the GM who he is, and what does he do (or do it together). Those people will almost always help you out, sometimes even when it goes out of their way. But such actions can provide consequences, for you and for them. You can add that contact to your character sheet; he is now part of the narrative.
+Spend 3 [Preparation dice](Core-Rules.md#preparation-pool) to establish a contact, informant, or group you "just happen to know." Describe the GM who he is, and what does he do (or do it together). Those people will almost always help you out, sometimes even when it goes out of their way. But such actions can provide consequences, for you and for them. You can add that contact to your character sheet; he is now part of the narrative.
 
 ### Trigger ready
 
-Whenever you are surprised by an action, or GM reveals a threat, you may expend one Preparation Die to act first, before the action GM announced. (Attack, dodge, tackle, hide.) If you would suffer consequences in form of Wounds or Exhausting a die, you remove one die less (to a minimum of 0) Once per session you may use this ability for free, but each subsequent use costs one [[Core-Rules#luck|Luck]].
+Whenever you are surprised by an action, or GM reveals a threat, you may expend one Preparation Die to act first, before the action GM announced. (Attack, dodge, tackle, hide.) If you would suffer consequences in form of Wounds or Exhausting a die, you remove one die less (to a minimum of 0) Once per session you may use this ability for free, but each subsequent use costs one [Luck](Core-Rules.md#luck).
 
 ### Molded by the City (Choose One):
 
@@ -80,7 +80,7 @@ Tier 3 (Comfortable): Rumormongers thrive on secrets, and secrets sell. Whether 
 
 ### Signature Ability – Fact or Fiction
 
-Spend 3 Preparation dice to weave a rumor into reality. Tell the GM a statement about the world, a situation, or a future event, and if it's plausible and interesting enough that people would actually talk about it, it becomes true. These rumors can change the flow of a mission, open opportunities, or tilt circumstances in your favor. They cannot directly harm a person or force their will—no rumor can kill, heal, or mind-control—but they can create situations where harm might follow. (Example: you can't declare "the rival boss drops dead," but you could declare "the rival boss never shows up at the meeting," leaving the fallout to play out naturally.) Rumors usually take about 24 hours to spread, but the GM might reduce that time if the idea is particularly juicy. Some rumors might require you to lower your [[Core-Rules#cash--economy|Cash Tier]], since a rumor to make a 1000$ worth of gold would cost that much money.
+Spend 3 Preparation dice to weave a rumor into reality. Tell the GM a statement about the world, a situation, or a future event, and if it's plausible and interesting enough that people would actually talk about it, it becomes true. These rumors can change the flow of a mission, open opportunities, or tilt circumstances in your favor. They cannot directly harm a person or force their will—no rumor can kill, heal, or mind-control—but they can create situations where harm might follow. (Example: you can't declare "the rival boss drops dead," but you could declare "the rival boss never shows up at the meeting," leaving the fallout to play out naturally.) Rumors usually take about 24 hours to spread, but the GM might reduce that time if the idea is particularly juicy. Some rumors might require you to lower your [Cash Tier](Core-Rules.md#cash--economy), since a rumor to make a 1000$ worth of gold would cost that much money.
 
 ### Secret Identity
 
@@ -92,7 +92,7 @@ You can send a message to anyone in Haven, and through strange coincidences or u
 
 ### Always Come Prepared
 
-At the start of each mission, add one die to the preparation pool. If you recently spread a rumor regarding this mission (it is related in some way) you also gain one Luck. When the GM describes the start of the mission you may add one small detail to the narrative (as if you had spent [[Core-Rules#influence|Influence]]).
+At the start of each mission, add one die to the preparation pool. If you recently spread a rumor regarding this mission (it is related in some way) you also gain one Luck. When the GM describes the start of the mission you may add one small detail to the narrative (as if you had spent [Influence](Core-Rules.md#influence)).
 
 ### Well Informed
 
@@ -192,7 +192,7 @@ Your connection to overlapping dimensions lets you manipulate angles and traject
 
 ### Split Decision
 
-When cornered or under pressure, you can exist in two possible outcomes for an instant. Describe both actions — for example, grabbing an item and running, attacking and evading. Roll only one stat roll, even if the actions would normally require two separate rolls; on a 6, both occur (you merge back into one being at the end of the action). On 4-5 choose one of the options that happened. Add one dice to the [[Core-Rules#chaos-pool|Chaos Pool]].
+When cornered or under pressure, you can exist in two possible outcomes for an instant. Describe both actions — for example, grabbing an item and running, attacking and evading. Roll only one stat roll, even if the actions would normally require two separate rolls; on a 6, both occur (you merge back into one being at the end of the action). On 4-5 choose one of the options that happened. Add one dice to the [Chaos Pool](Core-Rules.md#chaos-pool).
 
 ---
 
@@ -235,7 +235,7 @@ Spend one preparation die to see through your spirit's eyes. You observe your gh
 
 ## See Also
 
-- [[Character-Creation]] - Create your character
-- [[Character-Traits]] - Additional character options
-- [[Core-Rules]] - Learn the game mechanics
-- [[GM-Guide]] - GM guidance on running Callings
+- [Character Creation](Character-Creation.md) - Create your character
+- [Character Traits](Character-Traits.md) - Additional character options
+- [Core Rules](Core-Rules.md) - Learn the game mechanics
+- [GM Guide](GM-Guide.md) - GM guidance on running Callings

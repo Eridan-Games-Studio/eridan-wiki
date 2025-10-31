@@ -28,8 +28,8 @@ This is the age of high adventure, where empires clash on sacred ground, where a
 ### 📖 **Experience the Stories**
 Step into the narrative and witness the galaxy unfold.
 
-- [[00-prologue|**Prologue: Before the Rika**]] — The prophecy and Rika's arrival (upcoming)
-- [[01-the-dzhiu-demise|**The DZHIU Demise**]] — A cautionary tale of defiance
+- [**Prologue: Before the Rika**](00-prologue.md) — The prophecy and Rika's arrival (upcoming)
+- [**The DZHIU Demise**](01-the-dzhiu-demise.md) — A cautionary tale of defiance
 
 
 
@@ -40,14 +40,14 @@ Step into the narrative and witness the galaxy unfold.
 Meet the powers that shape the galaxy.
 
 **The Four Prime Contenders:**
-- [[akvira|**Akvira Empire**]] — Warrior-mystics with prescient sight
-- [[liguni-confluence|**Liguni Confluence**]] — Symbiotic minds in dark oceans
-- [[dindrae-tetrarky|**Dindrae Tetrarky**]] — Emotional empaths and crystal merchants
-- [[zo-har|**Zo Har Unity**]] — The living swarm with a mysterious mission
+- [**Akvira Empire**](akvira.md) — Warrior-mystics with prescient sight
+- [**Liguni Confluence**](liguni-confluence.md) — Symbiotic minds in dark oceans
+- [**Dindrae Tetrarky**](dindrae-tetrarky.md) — Emotional empaths and crystal merchants
+- [**Zo Har Unity**](zo-har.md) — The living swarm with a mysterious mission
 
 **The Three Intermediate Contenders:**
-- [[santariana|**Santariana Innervation**]] —
-- [[xia-distribution|**XIA Distribution**]] —
+- [**Santariana Innervation**](santariana.md) —
+- [**XIA Distribution**](xia-distribution.md) —
 
 
 
@@ -60,9 +60,9 @@ Meet the powers that shape the galaxy.
 ## Games & Media
 
 ### Set in This Universe
-- [[rika-board-game|Rika: The Board Game]] — 2vs2 tactical asymmetrical card-driven skirmish
-- [[rika-rpg|Rika: Aliens as Allies]] — Therapeutically inspired relational narrative RPG
-- [[rika-red-alert|Rika: Red Alert]] — Semi-cooperative puzzle solving and engine building
+- [Rika: The Board Game](rika-board-game.md) — 2vs2 tactical asymmetrical card-driven skirmish
+- [Rika: Aliens as Allies](rika-rpg.md) — Therapeutically inspired relational narrative RPG
+- [Rika: Red Alert](rika-red-alert.md) — Semi-cooperative puzzle solving and engine building
 
 ---
 
