@@ -4,56 +4,41 @@
 > — Ar Kharazon, Last Grand Vizjerei
 
 ---
+# Before the Rika
 
-Between the time when the Gorion star went supernova, and the Viconian dynasty drew its last breath, the Dominion Ascendancy, the last of the ancient guardians, ascended into the HenceForth.
+Between the time when the **Gorion Star** went supernova and the **Vikonian Dynasty** drew its last breath, the **Dominion Xaurid**, the last of the ancient guardians, ascended into the **HenceForth**.  
 
-In the wake of their transferal, etched into subspace, they left a single message. A galactic location and a voice, that of the last Grand Vizjerei, Ar Kharazon himself. With a tumultuous voice, he declared: **"Wait for her arrival and prove your worth in ages to come. The path awaits."**
+But in the last days of their transferal, as the ancient rite demanded, they left a single, final instruction for the coming cycle — a galactic location and a voice, that of the last **Grand Vizjereen**, **Ar Kharazon** himself. With a tumultuous voice, he declared:  
 
-Immediately, fully aware that the next Galactic Cycle had begun, the Titans of Power—the Liguni Confluence, the Akvira Empire, and the Dindrae Tetrarky—stormed upon the issued call with fervent haste. Fleets were assembled, alliances reforged, and borders fortified as all eyes in the galaxy turned to the same destined location.
+> "Wait for her arrival and prove your mettle in ages to come. The path stands ready for the worthy."
 
----
+Immediately, fully aware that the next Galactic Cycle had begun, the **Titans of Power** — the **Liguni Confluence**, the **Akvira Empire**, and the **Dindrae Tetrarchy** — rallied their strength to full power, committed to engaging the upcoming challenge with the full might of their civilizations. And all eyes in the galaxy turned to the same destined location.  
 
-## The First Convergence
+The first to arrive were the **Akvira** and the **Liguni**. Their fleets positioned themselves at a courteous distance, respecting their common might and title. But as the days passed, so did their patience. A galactic week into the foray, their fleets began to slowly and steadily approach the central perimeter. And as the generals moved their ships ever closer, so too did the shadow of war grow ever stronger.  
 
-The first to arrive were the Akvira and the Liguni. At first, they positioned fleets at a courteous distance respecting their common might and title. But as the days passed, so did patience. A galactic week into the foray, their fleets steadily approached the central perimeter, and with each passing step, the wings of war cast an ominous shadow over the sector.
+Sensing the worst outcomes, the **Chancellors**, trained to impact the will and steer emotion, gave their utmost to sway the opponents through diplomatic means. At first, appeals were made — but these soon gave way to bribes and offers of trade. When these failed, threats and extortions followed. Yet in all of these, progress was made, slowly but surely. After days of effort, it seemed that a treaty could be made.  
 
-But even amid such growing hostilities, the Chancellors, trained to impact the will, gave their utmost to sway the opponent and win through influence. At first, appeals were made. But these soon gave way to bribes and offers of trade. And when these failed, threats and extortions followed. But still, with each argument, with each bribe and offer a small progress was made. And after days of effort, it seemed as though a well-placed treaty could be established.
+But then, unexpectedly, the **Dindrae Tetrarchy** obdurately warped their mountain cities directly between the two forces and triumphantly declared the dawn of the **"Imune Era"** and their solemn right to command the area.  
 
----
+The first to react were the **Akvira**. Aggravated by such insolent behavior, their fleets sprang to full combat status. Destroyers and fighters were enveloped in **Nebu Shielding** as kinetic guns accelerated to full power. The **Liguni**, thinking in all-time, responded in equal measure. Their base stars, enveloped in clouds of black organo-ink, spun toward the zone’s center with deadly intent.  
 
-## The Dindrae Intervention
+The **Dindrae**, backing their words with power, raised high their crystal spires, their tops crackling with eldritch lightning. Beneath them, their monstrous forms littered the surface of the mountain polis, each one hastening toward its position — unfazed by cosmic cold or fear — laughing.  
 
-But then, unexpectedly, the Dindrae Tetrarky obdurately warped their mountain cities directly between the two forces and triumphantly declared the dawn of the **"Imune"** era and their solemn right to command the area.
+But then, at the point of highest tension and without a word of warning, the **bioflux conduits** of the **Zo Har** burst forth from the subspace strata, their anchor ships solidifying the curvature of space as the migration fleet poured like a tidal wave into the unoccupied sector.  
 
-The first to react was the Akvira, aggravated by such insolent behavior, their fleets sprang to full combat status. Destroyers and fighters were now enveloped in Nebu Shielding as kinetic guns accelerated to full power. The Liguni, thinking in all-time, responded in equal measure. Their base stars, enveloped in clouds of black organo-ink, spun toward the zone's center with deadly intent.
+And when the **Zo Har** came, they came singing. With a multitude of voices, the grand Zo Har chorus sang its **ErsteLied** for the first time in galactic history, overwhelming all stellar communications and, for a moment, pacifying the entirety of fleet hostility.  
 
-The Dindrae, backing their words with power, raised high the crystal spires, tops crackling with eldritch lightning. Underneath them, their monstrous forms littered the surface of the mountain polis. Each one hastening towards their positions unfazed by the cosmic cold, or fear, laughing.
+The **Akvira**, **Liguni**, and **Dindrae** ships immediately froze in their tracks, not daring to fulfill their hostile intentions. For, as all knew, this mighty act was the fulfillment of the ancient rite of **Holmgang**, and a successful claim to the **Mantle of a Great Race**.  
 
----
+And so it came to be that, in a still, hushed reverence, not one, two, or three — but **four Great Races** — interlocked their intentions in the firm grasp of the last guardian’s prophecy.  
 
-## The Zo Har Arrival
+Then, in the blink of an eye — behold! She appeared! Like a regal figure suddenly revealed by the draw of royal curtains, the planetoid manifested itself in real space, sovereign and serene.  
 
-At the point of highest tension, and without a word of warning the bioflux conduits of the Zo Har burst forth from the subspace strata, their anchor ships solidifying the curvature of space as the migration fleet poured like a tidal wave into the unoccupied space.
-
-And when the Zo Har came, they came singing. With a multitude of voices, the grand Zo Har chorus sang its **ErsteLied** for the first time in galactic history, overwhelming all stellar communications and for a moment pacifying the entirety of fleet hostility.
-
-The Akvira, Liguni, and Dindrae ships immediately froze in their tracks, not daring to fulfill their hostile intentions. For as all knew, this mighty act was the fulfillment of the ancient rite of Holmgang and a successful claim to the Mantle of a Great Race.
-
-And so it came to be, that in a still, hushed reverence, not one, two, or three but **four Great Races** interlocked their intentions in the firm grasp of the last guardian's prophecy.
+And so, at last, the next Great Cycle was given birth — and with it, the **Age of High Adventure**.  
 
 ---
 
-## The Manifestation
-
-And then, in a blink of an eye, behold—she appeared! Like a regal figure suddenly uncovered by royal curtains, the planetoid manifested itself in real space, sovereign and serene.
-
-And so, at last, the next Great Cycle was given birth, and with it, the age of high adventure!
-
----
-
-> *"The Chronicler Memories, The Age of Transition, Iurexia Library, Section XX"*
-
----
+*“The Chronicler Memories, The Age of Transition, Iurexia Library, Section XX”*
 
 ## Explore More
 
