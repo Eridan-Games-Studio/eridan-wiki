@@ -1,9 +1,3 @@
-# Rule of Rika
-
-Now, Rika stands upright as the linchpin of galactic stability. Arbiter, legislator, and judge of the new galactic order, on her ground galactic denizens clash their dreams and aspirations to prove their worth and value.
-
----
-
 ## The Call and the Pilgrimage
 
 > "The Rika beckons and judges. She calls, and she welcomes. These are the ways by which Rika establishes the cosmic balance."  
