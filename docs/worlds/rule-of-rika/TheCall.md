@@ -76,15 +76,15 @@ To ignore these calls forth the final judgment.
 
 ### The Fall of the Nordom Polarity
 
-It is said that the main reason why the **Anhuru Aristocracy**, one of the usurpers, has vied to destroy the current galactic order lies in the Final Judgment bestowed on her sibling race, **The Nordom Polarity**.
+> It is said that the main reason why the **Anhuru Aristocracy**, one of the usurpers, has vied to destroy the current galactic order lies in the Final Judgment bestowed on her sibling race, **The Nordom Polarity**.
 
-Few such long-lasting and fruitful alliances have been made in recent galactic history as those between the Anhuru and the Nordom, so, at least, historians argue. But the Nordom fell into Rika's unfavored grasp, soon after they declared to be on the verge of discovery of a potent meta-sentient digital form they named **the Scrapper**.
+> Few such long-lasting and fruitful alliances have been made in recent galactic history as those between the Anhuru and the Nordom, so, at least, historians argue. But the Nordom fell into Rika's unfavored grasp, soon after they declared to be > > on the verge of discovery of a potent meta-sentient digital form they named **the Scrapper**.
 
-Details of the invention remain vague, shrouded in Nordom's technical secrecy, but soon after this proclamation, minor signs began to occur in Nordom's home system. For unknown motives, the Nordom did not stop their research but instead hastened it. And thus, soon, the major portents occurred. In spite of these, ignorantly or zealously, they continued ever fervently.
+> Details of the invention remain vague, shrouded in Nordom's technical secrecy, but soon after this proclamation, minor signs began to occur in Nordom's home system. For unknown motives, the Nordom did not stop their research but instead > > > > > hastened it. And thus, soon, the major portents occurred. In spite of these, ignorantly or zealously, they continued ever fervently.
 
-For a period, nothing occurred, but then unexpectedly and suddenly the Nordom's star started building up deadly reactions. Nordom initiated a planet-wide exodus, but for many it was too late as their sun burst forth to scour the entire planet with deadly radiation.
+> For a period, nothing occurred, but then unexpectedly and suddenly the Nordom's star started building up deadly reactions. Nordom initiated a planet-wide exodus, but for many it was too late as their sun burst forth to scour the entire planet > > with deadly radiation.
 
-Now, remnants of their once-proud civilization traverse through the galaxy, spurned as renegades and outcasts.
+> Now, remnants of their once-proud civilization traverse through the galaxy, spurned as renegades and outcasts.
 
 > *From the comments of Xerxhes Berringar, 3rd Chieftain of the Berunnu in Exile.*
 
