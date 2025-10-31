@@ -260,7 +260,10 @@ Between missions, players can:
 Downtime has no strict limit — players decide when they're ready for the next job, but some jobs might need urgency to be successful.
 
 ---
-
+[Callings](Callings.md) - Choose your archetype  
+[Character Creation](Character-Creation.md) - Build your character  
+[GM Guide](GM-Guide.md) - Running the game  
+[The City of Haven](The-City-of-Haven.md) - Explore the setting
 ## See Also
 
 - [[Callings]] - Choose your archetype
