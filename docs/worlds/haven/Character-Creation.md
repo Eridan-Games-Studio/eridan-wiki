@@ -83,8 +83,7 @@ These pools are used for task rolls during missions. You can write the values on
 ---
 
 ## See Also
-
-- [[Callings]] - Learn about each archetype
-- [[Character-Traits]] - Choose your trait
-- [[Core-Rules]] - Understand the mechanics
-- [[Welcome-to-Haven|How to Play]] - Start playing
+- [Callings](Callings.md) - Learn about each archetype  
+- [Character Traits](Character-Traits.md) - Choose your trait  
+- [Core Rules](Core-Rules.md) - Understand the mechanics  
+- [How to Play](Welcome-to-Haven.md) - Start playing
