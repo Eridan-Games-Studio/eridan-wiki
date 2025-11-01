@@ -2,7 +2,7 @@
 
 **Worlds**
 * [The Rule of Rika](worlds/rule-of-rika/rule-of-rika.md)
-* [Atomic Horizon](worlds/atomic-horizon.md)
+* [Atomic Horizon](worlds/atomic-horizon/atomic-horizon.md)
 * [H.A.V.E.N](worlds/haven/home.md)
 
 **Games**

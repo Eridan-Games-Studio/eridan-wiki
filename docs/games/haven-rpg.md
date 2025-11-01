@@ -28,7 +28,7 @@ A supernatural-noir RPG steeped in crime, occult mystery, and urban paranoia.
 
 ## World
 
-Set in the [H.A.V.E.N](worlds/haven.md) universe, a supernatural-noir setting where every deal has a price and every truth is poisoned.
+Set in the universe, a supernatural-noir setting where every deal has a price and every truth is poisoned.
 
 ## Development Team
 
@@ -41,3 +41,10 @@ Will you survive Haven City's **dark secrets**, or will the city claim another v
 ## Distribution Order
 
 This game is planned as the first release in our distribution pipeline.
+
+---
+
+**Explore More:**
+- [Welcome to Haven](../worlds/haven/Welcome-to-Haven.md) - Discover the supernatural-noir world
+- [The City of Haven](../worlds/haven/The-City-of-Haven.md) - Explore Haven City in detail
+- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home

@@ -49,8 +49,14 @@ Earth is not lost. It is *occupied, quarantined, and waiting*. No one goes down.
 
 ## Games Set in This World
 
-- [Atomic Horizon: Warcaskets](games/atomic-horizon-warcaskets.md) - Co-op tactical skirmish with customizable exosuits
+- [Atomic Horizon: Warcaskets](../../games/atomic-horizon-warcaskets.md) - Co-op tactical skirmish with customizable exosuits
 
 ## Tagline
 
 *The homeworld is forbidden. The future is fusion. Survival is negotiable.*
+
+---
+
+**Explore More:**
+- [Atomic Horizon: Warcaskets](../../games/atomic-horizon-warcaskets.md) - Play in this universe
+- [Main Wiki](../../index.md) - Return to the Eridan Games Wiki home

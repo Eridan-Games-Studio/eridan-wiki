@@ -27,8 +27,8 @@ Set in The Rule of Rika universe, where civilizations are fundamentally alien re
 
 ## Development Team
 
-- **Game Director**: Tomislav Furlanis
-- **Lead Game Designer**: Nikola Serdarević
+- **Game Director**: Nikola Serdarević
+- **Lead Narrative Designer**: Tomislav Furlanis
 - **Lead System Designer**: Sven Vukelić
 
 ## Synopsis
@@ -38,3 +38,10 @@ Can you truly understand what it means to be **alien**—and in doing so, discov
 ## Distribution Order
 
 This game is planned as the third release in our distribution pipeline.
+
+---
+
+**Explore More:**
+- [The Rule of Rika Universe](../worlds/rule-of-rika/rule-of-rika.md) - Explore the alien civilizations
+- [Rika: The Board Game](rika-board-game.md) - Tactical combat in the same universe
+- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home

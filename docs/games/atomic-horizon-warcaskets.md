@@ -28,7 +28,7 @@ Co-op tactical skirmish game with customizable exosuits and card-driven combat.
 
 ## World
 
-Set in the [Atomic Horizon](worlds/atomic-horizon.md) universe, where corporations rule the colonies and wars are fought over fusion fuel and orbital territories.
+Set in the universe, where corporations rule the colonies and wars are fought over fusion fuel and orbital territories.
 
 ## Development Team
 
@@ -41,3 +41,9 @@ Will your squad survive the mission when you're **outnumbered, outgunned, but no
 ## Distribution Order
 
 This game is planned as the fifth release in our distribution pipeline.
+
+---
+
+**Explore More:**
+- [Atomic Horizon Universe](../worlds/atomic-horizon/atomic-horizon.md) - Explore the corporate-dominated Solar System
+- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home

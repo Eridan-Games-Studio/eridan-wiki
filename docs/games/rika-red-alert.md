@@ -26,7 +26,7 @@ Multiplayer semi-cooperative puzzle solving and engine building game.
 
 ## World
 
-Set in [The Rule of Rika](worlds/rule-of-rika.md) universe, where alien civilizations navigate cosmic challenges orchestrated by the sentient planetoid Rika.
+Set in The Rule of Rika universe, where alien civilizations navigate cosmic challenges orchestrated by the sentient planetoid Rika.
 
 ## Development Team
 
@@ -40,3 +40,10 @@ Will your team manage to solve **escalating problems** endangering your spaceshi
 ## Distribution Order
 
 This game is planned as the fourth release in our distribution pipeline.
+
+---
+
+**Explore More:**
+- [The Rule of Rika Universe](../worlds/rule-of-rika/rule-of-rika.md) - Discover the cosmic challenges
+- [Rika: The Board Game](rika-board-game.md) - Experience competitive Rika gameplay
+- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home

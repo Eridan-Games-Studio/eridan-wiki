@@ -26,13 +26,6 @@ A **supernatural-noir setting** steeped in crime, occult mystery, and urban para
 ### Tactical Games
 - **Atomic Horizon: Warcaskets** - Co-op tactical skirmish with customizable exosuits
 
-## Quick Navigation
-
-- **Worlds** - Deep dive into each universe's lore, factions, and history
-- **Games** - Detailed game rules, mechanics, and strategies  
-- **Development** - Behind-the-scenes insights and design philosophy
-- **Community** - Resources for players and contributors
-
 ---
 
 
