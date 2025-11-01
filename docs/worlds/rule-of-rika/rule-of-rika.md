@@ -7,16 +7,6 @@ A Galactic Chronicle of Power, Prophecy, and the Cosmic Balance.
 
 ---
 
-## Content in this Chronicle:
-
-- [Welcome to the Age of High Adventure](#welcome-to-the-age-of-high-adventure)
-- [Begin Your Journey](#begin-your-journey)
-- [Games & Media](#games--media)
-
-The contents below explore the lore, powers, and stories shaping the Age of Rika — the planetoid arbiter who governs the fates of empires and adventurers alike.
-
----
-
 ## Welcome to the Age of High Adventure
 
 In this galactic cycle, the planetoid **Rika** stands as the solemn arbiter of galactic relations.  
@@ -52,7 +42,7 @@ Meet the powers that shape the galaxy.
 
 ---
 
-## Games & Media
+## Games
 
 ### Set in This Universe
 - [**Rika: The Board Game**](../../games/rika-board-game.md) — 2vs2 tactical asymmetrical card-driven skirmish  
@@ -60,6 +50,3 @@ Meet the powers that shape the galaxy.
 - [**Rika: Red Alert**](../../games/rika-red-alert.md) — Semi-cooperative puzzle solving and engine building  
 
 ---
-
-> *"The Rika beckons and the Rika bestows its judgment. She calls, and she welcomes. These are the ways by which the Rika establishes the cosmic balance."*  
-> — **ZinChi Everlasting**, Grand Archiver of the **XIA Distribution**
