@@ -1,7 +1,7 @@
 # Rule of Rika
 
 > *"Wait for her arrival and prove your worth in ages to come. The path awaits."*  
-> — Ar Kharazon, Last Grand Vizjereen of the Dominion Ascendancy
+> — Ar Kharazon, Last Grand Vizjereen
 
 A Galactic Chronicle of Power, Prophecy, and the Cosmic Balance.
 
@@ -21,13 +21,11 @@ The contents below explore the lore, powers, and stories shaping the Age of Rika
 
 In this galactic cycle, the planetoid **Rika** stands as the solemn arbiter of galactic relations.  
 
-She calls forth those whose conflicts threaten the future only she can see, summoning them to her ever-shifting terrain to settle their disputes through force of arms and strength of influence.  
+She guides both individuals, groups and civilizations.
+
+She calls forth those whose future only she can see, summoning them to her ever-shifting terrain to settle their disputes through trial in combat and strength of influence. 
 
 She guides those whom she chooses to accomplish her inscrutable goals. These are her chosen, her unlikely heroes — her adventurers.  
-
-She welcomes pilgrims to hear their cries and demands.  
-
-This is the Age of High Adventure — where empires clash on sacred ground, where ancient mysteries guide the fate of civilizations, and where the **Rule of Rika** maintains order among the stars.
 
 ---
 
@@ -57,9 +55,9 @@ Meet the powers that shape the galaxy.
 ## Games & Media
 
 ### Set in This Universe
-- [**Rika: The Board Game**](rika-board-game.md) — 2vs2 tactical asymmetrical card-driven skirmish  
-- [**Rika: Aliens as Allies**](rika-rpg.md) — Therapeutically inspired relational narrative RPG  
-- [**Rika: Red Alert**](rika-red-alert.md) — Semi-cooperative puzzle solving and engine building  
+- [**Rika: The Board Game**](../../games/rika-board-game.md) — 2vs2 tactical asymmetrical card-driven skirmish  
+- [**Rika: Aliens as Allies**](../../games/rika-rpg.md) — Therapeutically inspired relational narrative RPG  
+- [**Rika: Red Alert**](../../games/rika-red-alert.md) — Semi-cooperative puzzle solving and engine building  
 
 ---
 
