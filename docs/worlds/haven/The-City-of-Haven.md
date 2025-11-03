@@ -185,4 +185,6 @@ Of course, there are many other interesting places to visit in Haven. These are 
 - [Callings](worlds/haven/Character-Creation.md) - Player characters
 - [Core Rules](worlds/haven/Core-Rules.md) - Game mechanics
 
+---
 
+> **Author:** Matej Pupačić

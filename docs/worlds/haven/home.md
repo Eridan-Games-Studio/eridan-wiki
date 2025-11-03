@@ -21,3 +21,7 @@ Would appreciate feedback!
 - **Ready to play?** Go to [Character Creation](worlds/haven/Character-Creation.md)
 - **Running the game?** Check out the [GM Guide](worlds/haven/GM-Guide.md)
 - **Want to learn the rules?** See [Core Rules](worlds/haven/Core-Rules.md)
+
+---
+
+> **Author:** Matej Pupačić

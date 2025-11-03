@@ -37,3 +37,7 @@ If the table agrees that what you're doing matters, roll for it.
 - Explore [the available Callings](worlds/haven/Callings.md)
 - Discover [the world of Haven](worlds/haven/The-City-of-Haven.md)
 - Create [your character](worlds/haven/Character-Creation.md)
+
+---
+
+> **Author:** Matej Pupačić

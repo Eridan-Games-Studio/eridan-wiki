@@ -87,3 +87,7 @@ These pools are used for task rolls during missions. You can write the values on
 - [Character Traits](worlds/haven/Character-Traits.md) - Choose your trait
 - [Core Rules](worlds/haven/Core-Rules.md) - Understand the mechanics
 - [How to Play](worlds/haven/Welcome-to-Haven.md) - Start playing
+
+---
+
+> **Author:** Matej Pupačić

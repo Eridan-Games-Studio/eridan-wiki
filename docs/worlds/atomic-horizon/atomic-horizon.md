@@ -60,3 +60,7 @@ Earth is not lost. It is *occupied, quarantined, and waiting*. No one goes down.
 **Explore More:**
 - [Atomic Horizon: Warcaskets](worlds/atomic-horizon/games/atomic-horizon-warcaskets.md) - Play in this universe
 - [Main Wiki](index.md) - Return to the Eridan Games Wiki home
+
+---
+
+> **Author:** Sven Vukelić

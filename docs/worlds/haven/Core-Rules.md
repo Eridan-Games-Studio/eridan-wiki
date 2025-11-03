@@ -264,3 +264,7 @@ Downtime has no strict limit — players decide when they're ready for the next 
 [Character Creation](worlds/haven/Character-Creation.md) - Build your character
 [GM Guide](worlds/haven/GM-Guide.md) - Running the game
 [The City of Haven](worlds/haven/The-City-of-Haven.md) - Explore the setting
+
+---
+
+> **Author:** Matej Pupačić

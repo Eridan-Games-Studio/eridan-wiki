@@ -474,3 +474,7 @@ My suggestion would be, if you play multiple sessions with the same characters, 
 [Callings](worlds/haven/Callings.md) - Player archetypes
 [The City of Haven](worlds/haven/The-City-of-Haven.md) - Setting information
 [How to Play](worlds/haven/Welcome-to-Haven.md) - Basic gameplay
+
+---
+
+> **Author:** Matej Pupačić

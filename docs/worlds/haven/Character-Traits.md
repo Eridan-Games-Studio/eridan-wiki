@@ -46,3 +46,7 @@ You're always expecting the worst — and sometimes you're right. Once per missi
 - [Character Creation](worlds/haven/Character-Creation.md) - Build your character
 - [Callings](worlds/haven/Callings.md) - Choose your archetype
 - [Core Rules](worlds/haven/Core-Rules.md) - Learn the game mechanics
+
+---
+
+> **Author:** Matej Pupačić

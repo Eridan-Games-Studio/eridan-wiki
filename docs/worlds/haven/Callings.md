@@ -239,3 +239,7 @@ Spend one preparation die to see through your spirit's eyes. You observe your gh
 - [Character Traits](worlds/haven/Character-Traits.md) - Additional character options
 - [Core Rules](worlds/haven/Core-Rules.md) - Learn the game mechanics
 - [GM Guide](worlds/haven/GM-Guide.md) - GM guidance on running Callings
+
+---
+
+> **Author:** Matej Pupačić
