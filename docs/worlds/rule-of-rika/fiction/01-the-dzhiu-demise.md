@@ -64,3 +64,7 @@ So fell the DZHIU, the **first of the outcasts**.
 
 - [Rule of Rika Overview](../rule-of-rika.md)
 - [Prologue: Before the Rika](00-prologue.md)
+
+---
+
+> **Author:** Tomislav Furlanis

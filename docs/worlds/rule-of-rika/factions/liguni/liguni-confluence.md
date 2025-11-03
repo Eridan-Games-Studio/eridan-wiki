@@ -131,5 +131,8 @@ I shrugged and surrendered with a courteous gesture, as demanded of a defeated p
 - [Santariana Innervation Codex](worlds/rule-of-rika/factions/santariana/santariana.md)
 - [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)
 - [Zo Har Unity Codex](worlds/rule-of-rika/factions/zohar/zo-har.md)
+
 ---
+
+> **Author:** Tomislav Furlanis
 

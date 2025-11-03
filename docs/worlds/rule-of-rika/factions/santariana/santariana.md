@@ -95,3 +95,7 @@ Their facial expressions, perspiration, heart rate, breathing, the twitching of 
 - [Liguni Confluence Codex](worlds/rule-of-rika/factions/liguni/liguni-confluence.md)
 - [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)
 - [Zo Har Unity Codex](worlds/rule-of-rika/factions/zohar/zo-har.md)
+
+---
+
+> **Author:** Tomislav Furlanis

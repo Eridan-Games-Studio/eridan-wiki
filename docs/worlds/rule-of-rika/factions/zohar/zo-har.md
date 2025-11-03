@@ -129,3 +129,7 @@ Once this phenomenon is complete, the tower will dry out within hours and the Zo
 - [Liguni Confluence Codex](worlds/rule-of-rika/factions/liguni/liguni-confluence.md)
 - [Santariana Innervation Codex](worlds/rule-of-rika/factions/santariana/santariana.md)
 - [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)
+
+---
+
+> **Author:** Tomislav Furlanis

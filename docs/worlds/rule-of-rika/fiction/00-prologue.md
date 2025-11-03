@@ -43,3 +43,7 @@ And so, at last, the next Great Cycle was given birth — and with it, the **Age
 
 - [Rule of Rika Overview](../rule-of-rika.md)
 - [The DZHIU Demise](01-the-dzhiu-demise.md)
+
+---
+
+> **Author:** Tomislav Furlanis

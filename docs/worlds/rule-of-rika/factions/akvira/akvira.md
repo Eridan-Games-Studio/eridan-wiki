@@ -167,3 +167,7 @@ An instant before the impact, the bionic talons released with a loud clank, and 
 - [Santariana Innervation Codex](worlds/rule-of-rika/factions/santariana/santariana.md)
 - [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)
 - [Zo Har Unity Codex](worlds/rule-of-rika/factions/zohar/zo-har.md)
+
+---
+
+> **Author:** Tomislav Furlanis

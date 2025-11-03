@@ -92,3 +92,5 @@ To ignore these calls forth the final judgment.
 > *From the comments of Xerxhes Berringar, 3rd Chieftain of the Berunnu in Exile.*
 
 ---
+
+> **Author:** Tomislav Furlanis

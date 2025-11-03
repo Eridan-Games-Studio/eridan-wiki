@@ -139,3 +139,6 @@ Not all of these gems will be harvested, however, since each Dindrae will allow 
 - [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)
 - [Zo Har Unity Codex](worlds/rule-of-rika/factions/zohar/zo-har.md)
 
+---
+
+> **Author:** Tomislav Furlanis

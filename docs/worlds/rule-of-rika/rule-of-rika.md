@@ -45,8 +45,10 @@ Meet the powers that shape the galaxy.
 ## Games
 
 ### Set in This Universe
-- [**Rika: The Board Game**](games/rika-board-game.md) — 2vs2 tactical asymmetrical card-driven skirmish  
-- [**Rika: Aliens as Allies**](games/rika-rpg.md) — Therapeutically inspired relational narrative RPG  
-- [**Rika: Red Alert**](games/rika-red-alert.md) — Semi-cooperative puzzle solving and engine building  
+- [**Rika: The Board Game**](games/rika-board-game.md) — 2vs2 tactical asymmetrical card-driven skirmish
+- [**Rika: Aliens as Allies**](games/rika-rpg.md) — Therapeutically inspired relational narrative RPG
+- [**Rika: Red Alert**](games/rika-red-alert.md) — Semi-cooperative puzzle solving and engine building
 
 ---
+
+> **Author:** Tomislav Furlanis

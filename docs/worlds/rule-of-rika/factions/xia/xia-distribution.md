@@ -148,6 +148,8 @@ And it seemed to be pressing on him by the minute.
 - [Liguni Confluence Codex](worlds/rule-of-rika/factions/liguni/liguni-confluence.md)
 - [Santariana Innervation Codex](worlds/rule-of-rika/factions/santariana/santariana.md)
 - [Zo Har Unity Codex](worlds/rule-of-rika/factions/zohar/zo-har.md)
+
 ---
 
-……….
+> **Author:** Tomislav Furlanis
+
