@@ -26,7 +26,7 @@ When you roll, you create a dice pool based on your character's stats and bonuse
 
 ### Rolling Dice
 
-1. Choose the most relevant [[#Attributes|Attribute]] for the action (e.g. Agility, Intellect).
+1. Choose the most relevant [Attribute](#attributes) for the action (e.g. Agility, Intellect).
 2. Roll up to your Attribute value number of dice (your choice how many, but usually will roll the max number).
 3. Take the highest single die rolled.
 
@@ -51,7 +51,7 @@ The 1 means one of your dice becomes exhausted — you're getting tired, or luck
 
 Every character in H.A.V.E.N. has two core aspects:
 
-- **Who you are** — your [[Callings|Calling]], background, beliefs, and secrets.
+- **Who you are** — your [Calling](worlds/haven/Callings.md), background, beliefs, and secrets.
 - **What you can do** — your Attributes, abilities, and resources.
 
 ---
@@ -72,11 +72,11 @@ Attributes determine your character's physical and mental capability. They're gr
 - **Charisma**: Charm, deception, presence.
 - **Willpower**: Focus, mental resistance, determination.
 
-At [[Character-Creation|character creation]]:
+At [character creation](worlds/haven/Character-Creation.md):
 
 - All Attributes start at 1.
 - Distribute +5 additional points as you choose in each pool (10 total).
-- Your [[Callings|Calling]] may grant further bonuses.
+- Your [Calling](worlds/haven/Callings.md) may grant further bonuses.
 
 Your Physical Pool is the total of Brawn + Agility + Endurance.
 
@@ -170,7 +170,7 @@ Influence is your social and political weight, but also your will and experience
 Spend it to:
 
 - Spend 1 Influence to add a story details ("I know a guy in maintenance.")
-- Activate [[Callings|Calling abilities]].
+- Activate [Calling abilities](worlds/haven/Callings.md).
 
 Influence is earned for completing missions, playing your Conviction, pulling off dramatic successes, or shifting faction politics.
 
@@ -260,7 +260,7 @@ Between missions, players can:
 Downtime has no strict limit — players decide when they're ready for the next job, but some jobs might need urgency to be successful.
 
 ---
-[Callings](Callings.md) - Choose your archetype  
-[Character Creation](Character-Creation.md) - Build your character  
-[GM Guide](GM-Guide.md) - Running the game  
-[The City of Haven](The-City-of-Haven.md) - Explore the setting
+[Callings](worlds/haven/Callings.md) - Choose your archetype
+[Character Creation](worlds/haven/Character-Creation.md) - Build your character
+[GM Guide](worlds/haven/GM-Guide.md) - Running the game
+[The City of Haven](worlds/haven/The-City-of-Haven.md) - Explore the setting

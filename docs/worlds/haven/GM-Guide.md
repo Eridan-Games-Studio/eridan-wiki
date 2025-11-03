@@ -23,7 +23,7 @@ Haven is atmospheric, reactive, and alive.
 - Always ask, "What does the city want?"
 - Reward boldness, not perfection. But also, good preparation.
 - Make complications meaningful, not punitive.
-- Use the [[Core-Rules#chaos-pool|Chaos Pool]] to show the city's hand.
+- Use the [Chaos Pool](worlds/haven/Core-Rules.md#chaos-pool) to show the city's hand.
 - Every success should reveal another secret.
 
 ---
@@ -48,7 +48,7 @@ If the players push their luck — add a die.
 
 If something weird should happen — roll the pool.
 
-See [[Core-Rules#chaos-pool|Chaos Pool]] for mechanics.
+See [Chaos Pool](worlds/haven/Core-Rules.md#chaos-pool) for mechanics.
 
 ---
 
@@ -81,7 +81,7 @@ Play isn't about winning. It's about how much of yourself you leave behind in th
 
 ## GM-ing Callings and Player Actions
 
-In H.A.V.E.N., the players' [[Callings]] and their actions are the pulse of the story. Your role as GM isn't to control them, but to frame their impact — to keep the tension, tone, and mystery alive. Every roll, decision, or ability should leave a mark on the city, for better or worse.
+In H.A.V.E.N., the players' [Callings](worlds/haven/Callings.md) and their actions are the pulse of the story. Your role as GM isn't to control them, but to frame their impact — to keep the tension, tone, and mystery alive. Every roll, decision, or ability should leave a mark on the city, for better or worse.
 
 ### Player Actions
 
@@ -93,7 +93,7 @@ Even when players succeed, describe the cost, the noise, or the unease it leaves
 
 ### Influence
 
-[[Core-Rules#influence|Influence]] is the player's leverage — their power to rewrite the story in small, believable ways.
+[Influence](worlds/haven/Core-Rules.md#influence) is the player's leverage — their power to rewrite the story in small, believable ways.
 
 When a player spends Influence, they're claiming narrative authority: changing a detail in advance, or bending the odds their way.
 
@@ -107,7 +107,7 @@ Player might spend one Influence to say "there is a fire escape ladder on the si
 
 ### Luck Rolls
 
-[[Core-Rules#luck|Luck]] is a desperate whisper to the city — a plea for one good break.
+[Luck](worlds/haven/Core-Rules.md#luck) is a desperate whisper to the city — a plea for one good break.
 
 When a player makes a Luck roll, slow down. Let the table feel that silence before fate answers.
 
@@ -125,7 +125,7 @@ Abilities are extensions of who the characters are — how they see, think, and 
 
 When players use one, treat it like a spotlight moment. Let it define their personality and the tone of the scene. Encourage them to describe what their ability looks like or feels like.
 
-Tie its outcome into other systems — it might exhaust dice, add to the [[Core-Rules#preparation-pool|Preparation Pool]], or tempt [[Core-Rules#chaos-pool|Chaos]].
+Tie its outcome into other systems — it might exhaust dice, add to the [Preparation Pool](worlds/haven/Core-Rules.md#preparation-pool), or tempt [[Core-Rules#chaos-pool|Chaos]].
 
 Abilities are sometimes intentionally made vague. The interpretation of the ability is on the GM and the player. Feel free to give players what they want.
 
@@ -135,7 +135,7 @@ It is amazing if the players are allowed to add their own flavor to their charac
 
 ### Preparation Pool
 
-The [[Core-Rules#preparation-pool|Preparation Pool]] is the team's collective foresight — the evidence of careful planning, smart connections, and sheer confidence.
+The [Preparation Pool](worlds/haven/Core-Rules.md#preparation-pool) is the team's collective foresight — the evidence of careful planning, smart connections, and sheer confidence.
 
 As GM, use it to measure how ready they are for what's coming.
 
@@ -166,7 +166,7 @@ Preparation Dice carry the story's momentum — when they're gone, the players f
 
 ### The Chaos Pool
 
-The [[Core-Rules#chaos-pool|Chaos Pool]] represents Haven's will — the unpredictable pulse of the city, the grinding gears beneath the streets, the quiet rage of things left forgotten. It's not a punishment system; it's how the world reminds the players that every action leaves ripples.
+The [Chaos Pool](worlds/haven/Core-Rules.md#chaos-pool) represents Haven's will — the unpredictable pulse of the city, the grinding gears beneath the streets, the quiet rage of things left forgotten. It's not a punishment system; it's how the world reminds the players that every action leaves ripples.
 
 You add one die to the Chaos Pool when something tilts the balance of control — when order falters, reality bends, or the city takes notice.
 
@@ -201,7 +201,7 @@ Chaos doesn't punish cleverness — it punishes complacency. Make it poetic. Mak
 
 ### Signature Abilities
 
-Signature Abilities are the crown jewels of the [[Callings]] — powers that bend the story around the player's identity. They are not mechanical shortcuts; they are cinematic shifts in tone and reality.
+Signature Abilities are the crown jewels of the [Callings](worlds/haven/Callings.md) — powers that bend the story around the player's identity. They are not mechanical shortcuts; they are cinematic shifts in tone and reality.
 
 Signatures are not "get-out-of-trouble" cards. They are pivots in the narrative. When a player uses theirs talk it out with them, see what is their idea, and how they want to approach it. As the GM, your role is to encourage creative freedom, honor the player's intent, and weave the consequences.
 
@@ -470,7 +470,7 @@ My suggestion would be, if you play multiple sessions with the same characters, 
 
 ## See Also
 
-[Core Rules](Core-Rules.md) - Core game mechanics  
-[Callings](Callings.md) - Player archetypes  
-[The City of Haven](The-City-of-Haven.md) - Setting information  
-[How to Play](Welcome-to-Haven.md) - Basic gameplay
+[Core Rules](worlds/haven/Core-Rules.md) - Core game mechanics
+[Callings](worlds/haven/Callings.md) - Player archetypes
+[The City of Haven](worlds/haven/The-City-of-Haven.md) - Setting information
+[How to Play](worlds/haven/Welcome-to-Haven.md) - Basic gameplay

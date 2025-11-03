@@ -180,9 +180,9 @@ Of course, there are many other interesting places to visit in Haven. These are 
 
 ## See Also
 
-- [Welcome-to-Haven](Welcome-to-Haven.md) - Introduction to the game
-- [GM Guide](GM-Guide.md) - Running games in Haven
-- [Callings](Character-Creation.md) - Player characters
-- [Core Rules](Core-Rules.md) - Game mechanics
+- [Welcome-to-Haven](worlds/haven/Welcome-to-Haven.md) - Introduction to the game
+- [GM Guide](worlds/haven/GM-Guide.md) - Running games in Haven
+- [Callings](worlds/haven/Character-Creation.md) - Player characters
+- [Core Rules](worlds/haven/Core-Rules.md) - Game mechanics
 
 

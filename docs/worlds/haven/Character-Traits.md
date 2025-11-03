@@ -1,6 +1,6 @@
 # Character Traits
 
-Traits represent your character's background, quirks, and specialized skills. Each character starts with one trait at [[Character-Creation|character creation]], and may gain more through play.
+Traits represent your character's background, quirks, and specialized skills. Each character starts with one trait at [character creation](worlds/haven/Character-Creation.md), and may gain more through play.
 
 ## Available Traits
 
@@ -8,16 +8,16 @@ Traits represent your character's background, quirks, and specialized skills. Ea
 You take comfort in a strong drink. Once per session when you take a Breather action you restore +2 dice to your pool if you take a sip of strong alcohol from a flask or bottle.
 
 ### Street Skills
-You have a +1 [[Core-Rules#reputation|reputation]] with a group on the street. That can be a local homeless group that hangs in a district, or a small gang of thieves. When you help them with a problem, you gain +1 Influence
+You have a +1 [reputation](worlds/haven/Core-Rules.md#reputation) with a group on the street. That can be a local homeless group that hangs in a district, or a small gang of thieves. When you help them with a problem, you gain +1 Influence
 
 ### Smoker's Instinct
-You take a drag, think, and see things clearer. Once per session, when pausing to smoke during a tense moment, regain 1 mental die or add 1 die to the [[Core-Rules#preparation-pool|Preparation Pool]]. Tell GM what are you pondering on, he will give you a hint regarding that problem.
+You take a drag, think, and see things clearer. Once per session, when pausing to smoke during a tense moment, regain 1 mental die or add 1 die to the [Preparation Pool](worlds/haven/Core-Rules.md#preparation-pool). Tell GM what are you pondering on, he will give you a hint regarding that problem.
 
 ### Lucky Trinket
-You carry something that "protects" you — a rabbit's foot, a medallion, a photo. Once per session, reroll one failed roll (all dice). If you roll a 1 on the reroll, you can add one of them to the preparation pool. If you lose the charm or goes missing you can spend 1 [[Core-Rules#luck|luck]] to find it somewhere convenient.
+You carry something that "protects" you — a rabbit's foot, a medallion, a photo. Once per session, reroll one failed roll (all dice). If you roll a 1 on the reroll, you can add one of them to the preparation pool. If you lose the charm or goes missing you can spend 1 [luck](worlds/haven/Core-Rules.md#luck) to find it somewhere convenient.
 
 ### Stray Magnet
-Animals seem drawn to you — cats, crows, even rats. Spend 1 [[Core-Rules#influence|Influence]] to use this affinity to "talk" to them to distract, scout, or sense danger. Once per session you can declare that a black cat has passed somewhere, you gain 1 luck.
+Animals seem drawn to you — cats, crows, even rats. Spend 1 [Influence](worlds/haven/Core-Rules.md#influence) to use this affinity to "talk" to them to distract, scout, or sense danger. Once per session you can declare that a black cat has passed somewhere, you gain 1 luck.
 
 ### Witchcraft apprentice
 You've dabbled in the unseen arts — enough to get a taste, not enough to stay safe. Gain +1 Willpower. You can roll willpower to feel out the scene. you can sense whether it's "active" or "dormant", but the GM might bring some paranormal complications.
@@ -43,6 +43,6 @@ You're always expecting the worst — and sometimes you're right. Once per missi
 ---
 
 ## See Also
-- [Character Creation](Character-Creation.md) - Build your character  
-- [Callings](Callings.md) - Choose your archetype  
-- [Core Rules](Core-Rules.md) - Learn the game mechanics
+- [Character Creation](worlds/haven/Character-Creation.md) - Build your character
+- [Callings](worlds/haven/Callings.md) - Choose your archetype
+- [Core Rules](worlds/haven/Core-Rules.md) - Learn the game mechanics

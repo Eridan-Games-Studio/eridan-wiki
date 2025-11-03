@@ -6,13 +6,13 @@ Follow these steps to create your character for H.A.V.E.N.
 
 ### 1. Choose Calling
 
-Select one of the five [Callings](Callings.md):
+Select one of the five [Callings](worlds/haven/Callings.md):
 
-- [Private Investigator](Callings.md#private-investigator)
-- [Rumormonger](Callings.md#rumormonger)
-- [Haunted One](Callings.md#haunted-one)
-- [The Agent](Callings.md#the-agent)
-- [Demonologist](Callings.md#demonologist)
+- [Private Investigator](worlds/haven/Callings.md#private-investigator)
+- [Rumormonger](worlds/haven/Callings.md#rumormonger)
+- [Haunted One](worlds/haven/Callings.md#haunted-one)
+- [The Agent](worlds/haven/Callings.md#the-agent)
+- [Demonologist](worlds/haven/Callings.md#demonologist)
 
 ### 2. Apply Starting Bonuses
 
@@ -21,14 +21,14 @@ Apply starting bonuses to stat pools based on your Calling.
 ### 3. Assign Attribute Points
 
 #### Physical Pool
-- [Brawn](Core-Rules.md#attributes)
-- [Agility](Core-Rules.md#attributes)
-- [Endurance](Core-Rules.md#attributes)
+- [Brawn](worlds/haven/Core-Rules.md#attributes)
+- [Agility](worlds/haven/Core-Rules.md#attributes)
+- [Endurance](worlds/haven/Core-Rules.md#attributes)
 
 #### Mental Pool
-- [Intellect](Core-Rules.md#attributes)
-- [Charisma](Core-Rules.md#attributes)
-- [Willpower](Core-Rules.md#attributes)
+- [Intellect](worlds/haven/Core-Rules.md#attributes)
+- [Charisma](worlds/haven/Core-Rules.md#attributes)
+- [Willpower](worlds/haven/Core-Rules.md#attributes)
 
 Start with 1 in each stat, distribute 5 additional points to each pool, not including Calling bonuses.
 
@@ -46,9 +46,9 @@ Hidden truth that haunts the character. Can be revealed once per campaign to tri
 
 ### 7. Set Influence & Luck
 
-[Influence](Core-Rules.md#influence): Track reputation, faction leverage, narrative sway.
+[Influence](worlds/haven/Core-Rules.md#influence): Track reputation, faction leverage, narrative sway.
 
-[Luck](Core-Rules.md#luck): Points for rerolling dice or daring actions in dire situations (last resort).
+[Luck](worlds/haven/Core-Rules.md#luck): Points for rerolling dice or daring actions in dire situations (last resort).
 
 These start at 0.
 
@@ -56,15 +56,15 @@ These start at 0.
 
 Determine starting financial tier (1–5). Tracks resources for equipment, healing, favors.
 
-See [Cash & Economy](Core-Rules.md#cash--economy) for details.
+See [Cash & Economy](worlds/haven/Core-Rules.md#cash--economy) for details.
 
 ### 9. Select Traits / Bonuses
 
-Pick 1 starting [Trait](Character-Traits.md) reflecting background, skill, or profession. Traits give mechanical bonuses and narrative hooks; can evolve as experience is gained.
+Pick 1 starting [Trait](worlds/haven/Character-Traits.md) reflecting background, skill, or profession. Traits give mechanical bonuses and narrative hooks; can evolve as experience is gained.
 
 ### 10. Determine Starting Reputation
 
-Assign initial [Reputation](Core-Rules.md#reputation) with factions, organizations, or key NPCs.
+Assign initial [Reputation](worlds/haven/Core-Rules.md#reputation) with factions, organizations, or key NPCs.
 
 - Positive = bonus dice, friendly relations  
 - Negative = complications or hostility
@@ -83,7 +83,7 @@ These pools are used for task rolls during missions. You can write the values on
 ---
 
 ## See Also
-- [Callings](Callings.md) - Learn about each archetype  
-- [Character Traits](Character-Traits.md) - Choose your trait  
-- [Core Rules](Core-Rules.md) - Understand the mechanics  
-- [How to Play](Welcome-to-Haven.md) - Start playing
+- [Callings](worlds/haven/Callings.md) - Learn about each archetype
+- [Character Traits](worlds/haven/Character-Traits.md) - Choose your trait
+- [Core Rules](worlds/haven/Core-Rules.md) - Understand the mechanics
+- [How to Play](worlds/haven/Welcome-to-Haven.md) - Start playing
