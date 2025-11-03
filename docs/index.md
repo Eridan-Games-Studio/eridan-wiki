@@ -4,27 +4,27 @@ Welcome to the **Eridan Games Wiki** - your comprehensive guide to our immersive
 
 ## Our Worlds
 
-### The Rule of Rika
+### [The Rule of Rika](worlds/rule-of-rika/rule-of-rika.md)
 A **mythic-ethnographic space opera** where alien civilizations with radically different biologies engage in cosmic contests orchestrated by the sentient planetoid Rika. Experience profound transformation as you step into alien mindsets where the very laws of physics operate differently.
 
-### Atomic Horizon  
+### [Atomic Horizon](worlds/atomic-horizon/atomic-horizon.md)
 A **retrofuturist setting** where humanity survives in a corporate-dominated Solar System. After Earth fell to the Engramized Singularity, corporations rule the colonies, fusion reactors power expansion, and wars are fought over fusion fuel and orbital territories.
 
-### H.A.V.E.N
+### [H.A.V.E.N](worlds/haven/home.md)
 A **supernatural-noir setting** steeped in crime, occult mystery, and urban paranoia. Navigate webs of power, corruption, and forbidden knowledge as unseen forces twist fate in this endless night.
 
 ## Our Games
 
 ### Board Games
-- **Rika: The Board Game** - 2vs2 tactical asymmetrical card-driven skirmish
-- **Rika: Red Alert** - Semi-cooperative puzzle solving and engine building
+- [**Rika: The Board Game**](games/rika-board-game.md) - 2vs2 tactical asymmetrical card-driven skirmish
+- [**Rika: Red Alert**](games/rika-red-alert.md) - Semi-cooperative puzzle solving and engine building
 
-### RPGs  
-- **H.A.V.E.N RPG** - Supernatural-noir investigation game
-- **Rika RPG: We are all aliens here** - Therapeutically inspired relational narrative RPG
+### RPGs
+- [**H.A.V.E.N RPG**](games/haven-rpg.md) - Supernatural-noir investigation game
+- [**Rika RPG: We are all aliens here**](games/rika-rpg.md) - Therapeutically inspired relational narrative RPG
 
 ### Tactical Games
-- **Atomic Horizon: Warcaskets** - Co-op tactical skirmish with customizable exosuits
+- [**Atomic Horizon: Warcaskets**](games/atomic-horizon-warcaskets.md) - Co-op tactical skirmish with customizable exosuits
 
 ---
 
