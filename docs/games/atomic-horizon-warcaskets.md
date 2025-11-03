@@ -45,5 +45,5 @@ This game is planned as the fifth release in our distribution pipeline.
 ---
 
 **Explore More:**
-- [Atomic Horizon Universe](../worlds/atomic-horizon/atomic-horizon.md) - Explore the corporate-dominated Solar System
-- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home
+- [Atomic Horizon Universe](worlds/atomic-horizon/atomic-horizon.md) - Explore the corporate-dominated Solar System
+- [Main Wiki](docs/index.md) - Return to the Eridan Games Wiki home

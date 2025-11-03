@@ -42,6 +42,6 @@ This game is planned as the third release in our distribution pipeline.
 ---
 
 **Explore More:**
-- [The Rule of Rika Universe](../worlds/rule-of-rika/rule-of-rika.md) - Explore the alien civilizations
-- [Rika: The Board Game](rika-board-game.md) - Tactical combat in the same universe
-- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home
+- [The Rule of Rika Universe](worlds/rule-of-rika/rule-of-rika.md) - Explore the alien civilizations
+- [Rika: The Board Game](games/rika-board-game.md) - Tactical combat in the same universe
+- [Main Wiki](docs/index.md) - Return to the Eridan Games Wiki home

@@ -46,6 +46,6 @@ This game is planned as the second release in our distribution pipeline.
 ---
 
 **Explore More:**
-- [The Rule of Rika Universe](../worlds/rule-of-rika/rule-of-rika.md) - Dive into the cosmic setting
-- [Rika RPG: We are all aliens here](rika-rpg.md) - Experience Rika's universe in narrative RPG form
-- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home
+- [The Rule of Rika Universe](worlds/rule-of-rika/rule-of-rika.md) - Dive into the cosmic setting
+- [Rika RPG: We are all aliens here](games/rika-rpg.md) - Experience Rika's universe in narrative RPG form
+- [Main Wiki](docs/index.md) - Return to the Eridan Games Wiki home

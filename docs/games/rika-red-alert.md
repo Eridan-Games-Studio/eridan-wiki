@@ -44,6 +44,6 @@ This game is planned as the fourth release in our distribution pipeline.
 ---
 
 **Explore More:**
-- [The Rule of Rika Universe](../worlds/rule-of-rika/rule-of-rika.md) - Discover the cosmic challenges
-- [Rika: The Board Game](rika-board-game.md) - Experience competitive Rika gameplay
-- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home
+- [The Rule of Rika Universe](worlds/rule-of-rika/rule-of-rika.md) - Discover the cosmic challenges
+- [Rika: The Board Game](games/rika-board-game.md) - Experience competitive Rika gameplay
+- [Main Wiki](docs/index.md) - Return to the Eridan Games Wiki home
