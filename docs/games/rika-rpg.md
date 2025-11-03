@@ -35,10 +35,6 @@ Set in The Rule of Rika universe, where civilizations are fundamentally alien re
 
 Can you truly understand what it means to be **alien**—and in doing so, discover who you really are?
 
-## Distribution Order
-
-This game is planned as the third release in our distribution pipeline.
-
 ---
 
 **Explore More:**

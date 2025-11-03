@@ -39,10 +39,6 @@ Set in The Rule of Rika universe, where alien civilizations with radically diffe
 
 Choose your partner and master the distinct strategies of a unique alien race to claim the **Mantle of Ascendancy**!
 
-## Distribution Order
-
-This game is planned as the second release in our distribution pipeline.
-
 ---
 
 **Explore More:**

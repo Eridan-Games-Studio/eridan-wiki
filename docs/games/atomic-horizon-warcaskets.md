@@ -38,10 +38,6 @@ Set in the universe, where corporations rule the colonies and wars are fought ov
 
 Will your squad survive the mission when you're **outnumbered, outgunned, but not outmaneuvered**?
 
-## Distribution Order
-
-This game is planned as the fifth release in our distribution pipeline.
-
 ---
 
 **Explore More:**

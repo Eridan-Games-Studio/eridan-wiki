@@ -38,10 +38,6 @@ Set in the universe, a supernatural-noir setting where every deal has a price an
 
 Will you survive Haven City's **dark secrets**, or will the city claim another victim?
 
-## Distribution Order
-
-This game is planned as the first release in our distribution pipeline.
-
 ---
 
 **Explore More:**

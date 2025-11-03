@@ -37,10 +37,6 @@ Set in The Rule of Rika universe, where alien civilizations navigate cosmic chal
 
 Will your team manage to solve **escalating problems** endangering your spaceship?
 
-## Distribution Order
-
-This game is planned as the fourth release in our distribution pipeline.
-
 ---
 
 **Explore More:**
