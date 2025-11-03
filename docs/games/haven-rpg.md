@@ -45,6 +45,6 @@ This game is planned as the first release in our distribution pipeline.
 ---
 
 **Explore More:**
-- [Welcome to Haven](../worlds/haven/Welcome-to-Haven.md) - Discover the supernatural-noir world
-- [The City of Haven](../worlds/haven/The-City-of-Haven.md) - Explore Haven City in detail
-- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home
+- [Welcome to Haven](worlds/haven/Welcome-to-Haven.md) - Discover the supernatural-noir world
+- [The City of Haven](worlds/haven/The-City-of-Haven.md) - Explore Haven City in detail
+- [Main Wiki](docs/index.md) - Return to the Eridan Games Wiki home

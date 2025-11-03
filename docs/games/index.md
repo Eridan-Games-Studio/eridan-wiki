@@ -26,4 +26,4 @@ A supernatural-noir investigation RPG set in Haven City where crime, corruption,
 ---
 
 **Explore More:**
-- [Main Wiki](../index.md) - Return to the Eridan Games Wiki home
+- [Main Wiki](docs/index.md) - Return to the Eridan Games Wiki home
