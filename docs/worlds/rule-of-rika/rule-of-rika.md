@@ -31,22 +31,22 @@ Step into the narrative and witness the galaxy unfold.
 Meet the powers that shape the galaxy.
 
 **The Four Prime Contenders:**
-- [**Akvira Empire**](factions/akvira/akvira.md) — Warrior-mystics with prescient sight  
-- [**Liguni Confluence**](factions/liguni/liguni-confluence.md) — Symbiotic minds in dark oceans  
-- [**Dindrae Tetrarky**](factions/dindrae/dindrae-tetrarky.md) — Emotional empaths and crystal merchants  
-- [**Zo Har Unity**](factions/zohar/zo-har.md) — The living swarm with a mysterious mission  
+- [**Akvira Empire**](worlds/rule-of-rika/factions/akvira/akvira.md) — Warrior-mystics with prescient sight  
+- [**Liguni Confluence**](worlds/rule-of-rika/factions/liguni/liguni-confluence.md) — Symbiotic minds in dark oceans  
+- [**Dindrae Tetrarky**](worlds/rule-of-rika/factions/dindrae/dindrae-tetrarky.md) — Emotional empaths and crystal merchants  
+- [**Zo Har Unity**](worlds/rule-of-rika/factions/zohar/zo-har.md) — The living swarm with a mysterious mission  
 
 **The Three Intermediate Contenders:**
-- [**Santariana Innervation**](factions/santariana/santariana.md) —  
-- [**XIA Distribution**](factions/xia/xia-distribution.md) —  
+- [**Santariana Innervation**](worlds/rule-of-rika/factions/santariana/santariana.md) —  
+- [**XIA Distribution**](worlds/rule-of-rika/factions/xia/xia-distribution.md) —  
 
 ---
 
 ## Games
 
 ### Set in This Universe
-- [**Rika: The Board Game**](../../games/rika-board-game.md) — 2vs2 tactical asymmetrical card-driven skirmish  
-- [**Rika: Aliens as Allies**](../../games/rika-rpg.md) — Therapeutically inspired relational narrative RPG  
-- [**Rika: Red Alert**](../../games/rika-red-alert.md) — Semi-cooperative puzzle solving and engine building  
+- [**Rika: The Board Game**](worlds/rule-of-rika/games/rika-board-game.md) — 2vs2 tactical asymmetrical card-driven skirmish
+- [**Rika: Aliens as Allies**](worlds/rule-of-rika/games/rika-rpg.md) — Therapeutically inspired relational narrative RPG
+- [**Rika: Red Alert**](worlds/rule-of-rika/games/rika-red-alert.md) — Semi-cooperative puzzle solving and engine building  
 
 ---

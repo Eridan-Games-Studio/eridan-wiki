@@ -132,10 +132,10 @@ Not all of these gems will be harvested, however, since each Dindrae will allow 
 
 ## Explore More
 
-- [Rule of Rika Overview](../../rule-of-rika.md)
-- [Akvira Empire Codex](../akvira/akvira.md)
-- [Liguni Confluence Codex](../liguni/liguni-confluence.md)
-- [Santariana Innervation Codex](../santariana/santariana.md)
-- [XIA Distribution Codex](../xia/xia-distribution.md)
-- [Zo Har Unity Codex](../zohar/zo-har.md)
+- [Rule of Rika Overview](worlds/rule-of-rika/rule-of-rika.md)
+- [Akvira Empire Codex](worlds/rule-of-rika/factions/akvira/akvira.md)
+- [Liguni Confluence Codex](worlds/rule-of-rika/factions/liguni/liguni-confluence.md)
+- [Santariana Innervation Codex](worlds/rule-of-rika/factions/santariana/santariana.md)
+- [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)
+- [Zo Har Unity Codex](worlds/rule-of-rika/factions/zohar/zo-har.md)
 

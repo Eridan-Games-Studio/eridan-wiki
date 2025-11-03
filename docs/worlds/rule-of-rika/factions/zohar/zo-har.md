@@ -123,9 +123,9 @@ Once this phenomenon is complete, the tower will dry out within hours and the Zo
 
 ## Explore More
 
-- [Rule of Rika Overview](../../rule-of-rika.md)
-- [Akvira Empire Codex](../akvira/akvira.md)
-- [Dindrae Tetrarky Codex](../dindrae/dindrae-tetrarky.md)
-- [Liguni Confluence Codex](../liguni/liguni-confluence.md)
-- [Santariana Innervation Codex](../santariana/santariana.md)
-- [XIA Distribution Codex](../xia/xia-distribution.md)
+- [Rule of Rika Overview](worlds/rule-of-rika/rule-of-rika.md)
+- [Akvira Empire Codex](worlds/rule-of-rika/factions/akvira/akvira.md)
+- [Dindrae Tetrarky Codex](worlds/rule-of-rika/factions/dindrae/dindrae-tetrarky.md)
+- [Liguni Confluence Codex](worlds/rule-of-rika/factions/liguni/liguni-confluence.md)
+- [Santariana Innervation Codex](worlds/rule-of-rika/factions/santariana/santariana.md)
+- [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)

@@ -125,11 +125,11 @@ I shrugged and surrendered with a courteous gesture, as demanded of a defeated p
 
 ## Explore More
 
-- [Rule of Rika Overview](../../rule-of-rika.md)
-- [Akvira Empire Codex](../akvira/akvira.md)
-- [Dindrae Tetrarky Codex](../dindrae/dindrae-tetrarky.md)
-- [Santariana Innervation Codex](../santariana/santariana.md)
-- [XIA Distribution Codex](../xia/xia-distribution.md)
-- [Zo Har Unity Codex](../zohar/zo-har.md)
+- [Rule of Rika Overview](worlds/rule-of-rika/rule-of-rika.md)
+- [Akvira Empire Codex](worlds/rule-of-rika/factions/akvira/akvira.md)
+- [Dindrae Tetrarky Codex](worlds/rule-of-rika/factions/dindrae/dindrae-tetrarky.md)
+- [Santariana Innervation Codex](worlds/rule-of-rika/factions/santariana/santariana.md)
+- [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)
+- [Zo Har Unity Codex](worlds/rule-of-rika/factions/zohar/zo-har.md)
 ---
 
