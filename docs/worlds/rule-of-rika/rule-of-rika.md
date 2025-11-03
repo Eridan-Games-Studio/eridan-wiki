@@ -24,8 +24,8 @@ She guides those whom she chooses to accomplish her inscrutable goals. These are
 ### 📖 **Experience the Stories**
 Step into the narrative and witness the galaxy unfold.
 
-- [**Prologue: Before the Rika**](fiction/00-prologue.md) — The prophecy and Rika's arrival (upcoming)
-- [**The DZHIU Demise**](fiction/01-the-dzhiu-demise.md) — A cautionary tale of defiance
+- [**Prologue: Before the Rika**](worlds/rule-of-rika/fiction/00-prologue.md) — The prophecy and Rika's arrival (upcoming)
+- [**The DZHIU Demise**](worlds/rule-of-rika/fiction/01-the-dzhiu-demise.md) — A cautionary tale of defiance
 
 ### 🌌 **Explore the Civilizations**
 Meet the powers that shape the galaxy.
