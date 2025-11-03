@@ -49,7 +49,7 @@ Earth is not lost. It is *occupied, quarantined, and waiting*. No one goes down.
 
 ## Games Set in This World
 
-- [Atomic Horizon: Warcaskets](../../games/atomic-horizon-warcaskets.md) - Co-op tactical skirmish with customizable exosuits
+- [Atomic Horizon: Warcaskets](worlds/atomic-horizon/games/atomic-horizon-warcaskets.md) - Co-op tactical skirmish with customizable exosuits
 
 ## Tagline
 
@@ -58,5 +58,5 @@ Earth is not lost. It is *occupied, quarantined, and waiting*. No one goes down.
 ---
 
 **Explore More:**
-- [Atomic Horizon: Warcaskets](../../games/atomic-horizon-warcaskets.md) - Play in this universe
-- [Main Wiki](../../index.md) - Return to the Eridan Games Wiki home
+- [Atomic Horizon: Warcaskets](worlds/atomic-horizon/games/atomic-horizon-warcaskets.md) - Play in this universe
+- [Main Wiki](index.md) - Return to the Eridan Games Wiki home
