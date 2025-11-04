@@ -8,7 +8,7 @@
 **Games**
 
 *Board Games*
-* [Rika: The Board Game](games/rika-board-game.md)
+* [The Rite of Rika](games/rika-board-game.md)
 * [Rika: Red Alert](games/rika-red-alert.md)
 
 *RPGs*

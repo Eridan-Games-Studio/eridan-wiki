@@ -16,7 +16,7 @@ A **supernatural-noir setting** steeped in crime, occult mystery, and urban para
 ## Our Games
 
 ### Board Games
-- [**Rika: The Board Game**](games/rika-board-game.md) - 2vs2 tactical asymmetrical card-driven skirmish
+- [**The Rite of Rika**](games/rika-board-game.md) - 2vs2 tactical asymmetrical card-driven skirmish
 - [**Rika: Red Alert**](games/rika-red-alert.md) - Semi-cooperative puzzle solving and engine building
 
 ### RPGs

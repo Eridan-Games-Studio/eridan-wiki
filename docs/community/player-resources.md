@@ -10,7 +10,7 @@ Essential resources for players of Eridan Games.
 - **Supernatural Encounters**: Guidelines for paranormal events
 - **Downtime Activities**: What characters do between missions
 
-### Rika: The Board Game
+### The Rite of Rika
 - **Race Abilities**: Quick reference for each alien civilization
 - **Card Types**: Overview of different card categories
 - **Victory Conditions**: How to win the game

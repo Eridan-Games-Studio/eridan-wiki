@@ -39,5 +39,5 @@ Can you truly understand what it means to be **alien**—and in doing so, discov
 
 **Explore More:**
 - [The Rule of Rika Universe](worlds/rule-of-rika/rule-of-rika.md) - Explore the alien civilizations
-- [Rika: The Board Game](games/rika-board-game.md) - Tactical combat in the same universe
+- [The Rite of Rika](games/rika-board-game.md) - Tactical combat in the same universe
 - [Main Wiki](docs/index.md) - Return to the Eridan Games Wiki home

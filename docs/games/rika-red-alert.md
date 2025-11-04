@@ -41,5 +41,5 @@ Will your team manage to solve **escalating problems** endangering your spaceshi
 
 **Explore More:**
 - [The Rule of Rika Universe](worlds/rule-of-rika/rule-of-rika.md) - Discover the cosmic challenges
-- [Rika: The Board Game](games/rika-board-game.md) - Experience competitive Rika gameplay
+- [The Rite of Rika](games/rika-board-game.md) - Experience competitive Rika gameplay
 - [Main Wiki](docs/index.md) - Return to the Eridan Games Wiki home

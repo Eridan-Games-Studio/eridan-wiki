@@ -1,4 +1,4 @@
-# Rika: The Board Game
+# The Rite of Rika
 
 A **tactical 2vs2 board game** experience. Jointly command one of the four unique races in an asymmetric strategic battle fought on two fronts using powerful cards, units and limited communication.
 

@@ -10,7 +10,7 @@ Welcome to the Eridan Games community! This guide will help you dive into our wo
 - **Atomic Horizon: Warcaskets**: Free-to-play tactical game
 
 ### For Experienced Gamers
-- **Rika: The Board Game**: Deep strategic gameplay with asymmetric factions
+- **The Rite of Rika**: Deep strategic gameplay with asymmetric factions
 - **Rika: Aliens as Allies**: Therapeutically-inspired narrative RPG
 
 ## Understanding Our Worlds
