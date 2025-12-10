@@ -1,4 +1,4 @@
-# Rika: Red Alert
+# Rika: Engines of Discord
 
 Your spaceship's systems are **spiraling into chaos**. Balance the ship's resources and player progression before time, resources, or friendships run out.
 
@@ -6,7 +6,7 @@ A semi-cooperative strategy game where *every solved crisis flips into a fresh d
 
 ## Overview
 
-Multiplayer semi-cooperative puzzle solving and engine building game.
+Multiplayer semi-cooperative negotiation engine building game.
 
 ## Game Details
 
@@ -31,7 +31,7 @@ Set in The Rule of Rika universe, where alien civilizations navigate cosmic chal
 ## Development Team
 
 - **Game Director**: Siniša Družeta
-- **Lead Narrative Designer**: Tomislav Furlanis
+- **Lead Designer**: Tomislav Furlanis
 
 ## Synopsis
 
