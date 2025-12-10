@@ -17,7 +17,7 @@ A **supernatural-noir setting** steeped in crime, occult mystery, and urban para
 
 ### Board Games
 - [**The Rite of Rika**](games/rika-board-game.md) - 2vs2 tactical asymmetrical card-driven skirmish
-- [**Rika: Red Alert**](games/rika-red-alert.md) - Semi-cooperative puzzle solving and engine building
+- [**Rika: Engines of Discord**](games/engines-of-discord.md) - Semi-cooperative negotiation puzzle solving and engine building
 
 ### RPGs
 - [**H.A.V.E.N RPG**](games/haven-rpg.md) - Supernatural-noir investigation game
