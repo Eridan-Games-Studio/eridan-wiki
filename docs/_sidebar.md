@@ -9,7 +9,7 @@
 
 *Board Games*
 * [The Rite of Rika](games/rika-board-game.md)
-* [Rika: Red Alert](games/rika-red-alert.md)
+* [Rika: Engines of Discord](games/engines-of-discord.md)
 
 *RPGs*
 * [H.A.V.E.N RPG](games/haven-rpg.md)
