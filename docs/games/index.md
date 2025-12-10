@@ -7,7 +7,7 @@ Explore our diverse collection of games spanning multiple universes and genres.
 ### [The Rite of Rika](games/rika-board-game.md)
 A tactical 2vs2 asymmetric card-driven skirmish game where you command one of four major races from the Rika universe. Designed for professional competitive play, this game features limited communication between partners and strategic depth across two fronts.
 
-### [Rika: Red Alert](games/rika-red-alert.md)
+### [Rika: Engines of Discord](games/engines-of-discord.md)
 A semi-cooperative strategy game where your spaceship's systems spiral into chaos and every solved crisis creates new dilemmas. Balance ship resources and individual player goals before time, resources, or friendships run out.
 
 ### [Rika RPG: We are all aliens here](games/rika-rpg.md)
