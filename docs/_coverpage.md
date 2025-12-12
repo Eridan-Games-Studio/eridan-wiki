@@ -1,5 +1,3 @@
-![logo](_media/eridan-logo-1-transparent.png)
-
 # Eridan Games Wiki
 
 > Your gateway to immersive worlds and innovative games
