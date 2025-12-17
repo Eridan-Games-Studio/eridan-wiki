@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Field Record: Kanghui Du](#field-record-kanghui-du)
+- [Field Record: Kang Hui Du](#field-record-kanghui-du)
 - [Stranded](#stranded)
 - [Related Pages](#related-pages)
 
@@ -14,9 +14,9 @@
 
 ---
 
-## Field Record: Kanghui Du
+## Field Record: Kang Hui Du
 
-Kanghui Du still had work to do.  
+Kang Hui Du still had work to do.  
 
 True, this planet was well spread out with **Distribution towers**, but for some unknown reason, the **meta signal** was still fluctuating.  
 
@@ -53,7 +53,7 @@ The Dominant broke away from his calculations, triggered by urgency:
 
 The Matriarch came closer now, just in time for Du to wrap up his internal graphs of the tower malfunction. She extended her arms in a sign of warm greeting as her voice boomed beneath her trunk.  
 
-> “Kanghui Du! My favorite distribution!” she bellowed. “How is the connection?"  
+> “Kang Hui Du! My favorite distribution!” she bellowed. “How is the connection?"  
 
 “Matriarch!” Du bowed his head in a courtesan gesture. “I am just investigating the weave's stability. We have some slight fluctuations. It will be quickly remedied. How farest thee, Matriarch?”  
 
@@ -98,7 +98,7 @@ She turned her massive torso away, but her head remained fixed on his face.
 “With Xia haste!” she roared, half-laughing, and Du could not say if she was mocking him.  
 But with that she waved her massive fur-covered arm and galloped away.  
 
-Kanghui Du blinked once and twice, eyes never leaving her figure.  
+Kang Hui Du blinked once and twice, eyes never leaving her figure.  
 > “Unpack the other Shen,” the Dominant instructed. “They need to prepare for the report.”  
 
 ---
