@@ -5,7 +5,7 @@ Welcome to the **Eridan Games Wiki** - your comprehensive guide to our immersive
 ## Our Worlds
 
 ### [The Rule of Rika](worlds/rule-of-rika/rule-of-rika.md)
-A **mythic-ethnographic space opera** where alien civilizations with radically different biologies engage in cosmic contests orchestrated by the sentient planetoid Rika. Experience profound transformation as you step into alien mindsets where the very laws of physics operate differently.
+A **mythic-ethnographic space opera** where alien civilizations with radically different bodies and minds engage in cosmic contests orchestrated by the sentient planetoid Rika. Experience profound transformation as you step into alien mindsets where the very laws of physics operate differently.
 
 ### [Atomic Horizon](worlds/atomic-horizon/atomic-horizon.md)
 A **retrofuturist setting** where humanity survives in a corporate-dominated Solar System. After Earth fell to the Engramized Singularity, corporations rule the colonies, fusion reactors power expansion, and wars are fought over fusion fuel and orbital territories.
