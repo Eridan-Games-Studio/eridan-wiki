@@ -30,16 +30,14 @@ Step into the narrative and witness the galaxy unfold.
 ### 🌌 **Explore the Civilizations**
 Meet the powers that shape the galaxy.
 
-**The Four Prime Contenders:**
+**The Contenders:**
 - [**Akvira Empire**](worlds/rule-of-rika/factions/akvira/akvira.md) — Warrior-mystics with prescient sight  
 - [**Liguni Confluence**](worlds/rule-of-rika/factions/liguni/liguni-confluence.md) — Symbiotic minds in dark oceans  
 - [**Dindrae Tetrarky**](worlds/rule-of-rika/factions/dindrae/dindrae-tetrarky.md) — Emotional empaths and crystal merchants  
 - [**Zo Har Unity**](worlds/rule-of-rika/factions/zohar/zo-har.md) — The living swarm with a mysterious mission  
-
-**The Three Intermediate Contenders:**
 - [**Santariana Innervation**](worlds/rule-of-rika/factions/santariana/santariana.md) —  
 - [**XIA Distribution**](worlds/rule-of-rika/factions/xia/xia-distribution.md) —  
-
+- [**The Kyria Principality**] —  
 ---
 
 ## Games
