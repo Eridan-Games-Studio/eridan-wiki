@@ -31,13 +31,13 @@ Step into the narrative and witness the galaxy unfold.
 Meet the powers that shape the galaxy.
 
 **The Contenders:**
-- [**Akvira Empire**](worlds/rule-of-rika/factions/akvira/akvira.md) — Warrior-mystics with prescient sight  
-- [**Liguni Confluence**](worlds/rule-of-rika/factions/liguni/liguni-confluence.md) — Symbiotic minds in dark oceans  
-- [**Dindrae Tetrarky**](worlds/rule-of-rika/factions/dindrae/dindrae-tetrarky.md) — Emotional empaths and crystal merchants  
-- [**Zo Har Unity**](worlds/rule-of-rika/factions/zohar/zo-har.md) — The living swarm with a mysterious mission  
-- [**Santariana Innervation**](worlds/rule-of-rika/factions/santariana/santariana.md) —  
-- [**XIA Distribution**](worlds/rule-of-rika/factions/xia/xia-distribution.md) —  
-- [**The Kyria Principality**] —  
+- [**Akvira Empire**](worlds/rule-of-rika/factions/akvira/akvira.md) — A warrior-mystic avian race of rigid hierarchical conduct and imperialistic manners, governed by a cyclically reborn Empress and gifted with a profound sense of prescience; they manifest psychokinetic Nebu metal through the power of their collective subconscious as they seek to harmonize their civilization with the mystery of the Ultimate Mind.
+- [**Liguni Confluence**](worlds/rule-of-rika/factions/liguni/liguni-confluence.md) —  A symbiotic binary race originating from dark, abyssal oceans, composed of task-oriented "Dhul" and pan-temporal "Agon" who co-join to form a single, multi-modal consciousness; they perceive past, present, and future simultaneously, utilizing a fleet-wide neural mesh to bridge the gap between inanimate technology and their own eldritch, collective awareness.
+- [**Dindrae Tetrarky**](worlds/rule-of-rika/factions/dindrae/dindrae-tetrarky.md) — A quadripartite society of emotional empaths who manifest emotional aruas, grow crystalline wealth (Dhana) within their own bodies and stand governed by an innate emotional telepathy (Rasa) while seeking a spiritual reunion with their shattered progenitor deity, Ekata.
+- [**Zo Har Unity**](worlds/rule-of-rika/factions/zohar/zo-har.md) — A rapidly adapting gestalt organism of specialized warriors, builders, and thinkers whose cognitive and physical capacities are amplified by the proximity of the swarm; they are driven by an enigmatic, pan-galactic "Mission" to terraform barren worlds through parasitic biological injections, eventually erupting into colossal organic Tower Trees that signal their departure.
+- [**Santariana Innervation**](worlds/rule-of-rika/factions/santariana/santariana.md) —  Spore-transformed who utilize rose-tipped parasitic whips to grant miraculous medical benefits in exchange for the raw, experience of shared sensory feedback that maintains their own psychological coherence.
+- [**XIA Distribution**](worlds/rule-of-rika/factions/xia/xia-distribution.md) —  Millions of distinct personality clusters (Shen) inhabiting billions of android bodies, constantly evolving through cycles of downloading into physical embodiment, and ascending into the Nine Heaven for experience synthesis.
+- [**The Kyria Principality**] —  The terrestrial remnants of an ascended lineage governed by sentient artifacts that serve as sacred conduits to their already Ascended progenitors.
 ---
 
 ## Games
