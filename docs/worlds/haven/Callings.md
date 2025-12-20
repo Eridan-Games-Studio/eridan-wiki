@@ -242,4 +242,3 @@ Spend one preparation die to see through your spirit's eyes. You observe your gh
 
 ---
 
-> **Author:** Matej Pupačić

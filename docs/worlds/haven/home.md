@@ -24,4 +24,4 @@ Would appreciate feedback!
 
 ---
 
-> **Author:** Matej Pupačić
+This playtest version of the wiki-manual presented here has used generative AI tools to support with text drafting, linguistic structuring, and polishing to ensure clarity for a global audience, as English is not the author's primary language. While the text was refined using LLM tools, all ideas, including world-building, mechanics, lore, and concepts are entirely the product of the author's decade long creation and design process. A handcrafted version will be made available for the final release as playtesting continues. Author: Matej Pupačić

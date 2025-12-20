@@ -477,4 +477,4 @@ My suggestion would be, if you play multiple sessions with the same characters, 
 
 ---
 
-> **Author:** Matej Pupačić
+

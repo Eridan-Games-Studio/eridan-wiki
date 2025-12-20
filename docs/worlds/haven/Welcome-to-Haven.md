@@ -39,5 +39,3 @@ If the table agrees that what you're doing matters, roll for it.
 - Create [your character](worlds/haven/Character-Creation.md)
 
 ---
-
-> **Author:** Matej Pupačić

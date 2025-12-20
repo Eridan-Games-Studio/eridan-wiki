@@ -186,5 +186,3 @@ Of course, there are many other interesting places to visit in Haven. These are 
 - [Core Rules](worlds/haven/Core-Rules.md) - Game mechanics
 
 ---
-
-> **Author:** Matej Pupačić

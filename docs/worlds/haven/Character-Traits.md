@@ -49,4 +49,3 @@ You're always expecting the worst — and sometimes you're right. Once per missi
 
 ---
 
-> **Author:** Matej Pupačić

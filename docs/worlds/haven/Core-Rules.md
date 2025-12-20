@@ -267,4 +267,4 @@ Downtime has no strict limit — players decide when they're ready for the next 
 
 ---
 
-> **Author:** Matej Pupačić
+

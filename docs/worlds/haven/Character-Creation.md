@@ -90,4 +90,4 @@ These pools are used for task rolls during missions. You can write the values on
 
 ---
 
-> **Author:** Matej Pupačić
+
