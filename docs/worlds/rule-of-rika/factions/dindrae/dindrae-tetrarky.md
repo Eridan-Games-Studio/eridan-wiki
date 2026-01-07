@@ -34,13 +34,13 @@ The social structure based on this distinction is called, in Dindrae tongue, **"
 
 #### Life Outside
 
-The first two groups, **Krodha** and **Grnha**, belong to what Dindra call *life outside*, and thus are primarily oriented towards conquering new fields in science, business, trade, art, and the general progress of Dindrae civilization, including diplomacy and inter-species relations.
+The first two groups, **Krodha** and **Garva**, belong to what Dindra call *life outside*, and thus are primarily oriented towards conquering new fields in science, business, trade, art, and the general progress of Dindrae civilization, including diplomacy and inter-species relations.
 
 ##### Krodha Clan
 The Krodha Dindrae harness their burning rage to crush their enemies and assert their dominance, earning a reputation as fearsome and relentless warriors. They are fierce defenders of justice, swiftly punishing any who dare challenge the rights of their people. Aligned with the element of fire, they mirror its destructive power in battle.
 
 ##### Garva Clan
-The Garva Dindrae are drawn to the pursuit of science and business. With an insatiable thirst for success and social recognition, they will constantly strive to prove Dindrae's superiority to all other races. The Ghrna Dindrae hold their race’s foremost scientists, inventors, and business savants.
+The Garva Dindrae are drawn to the pursuit of science and business. With an insatiable thirst for success and social recognition, they will constantly strive to prove Dindrae's superiority to all other races. The Garva Dindrae hold their race’s foremost scientists, inventors, and business savants.
 
 ---
 
@@ -50,7 +50,7 @@ The other two groups, **Karuna** and **Urdhva**, belong to what Dindrae call *li
 Dindrae that belong to these groups aim to cure and connect, to bring depth and clarity, understanding, and novel interpretations to what Hanze accomplishes.
 
 ##### Karuna Clan
-The Karuna Dindrae are a compassionate and empathetic group. Their natural heightened empathy will put them in the position of advisors, therapists, and counselors for their race. Likewise, the Karuna will often accompany the Ghrna in vital interspecies discussions, especially in tense situations at the edge of conflict.
+The Karuna Dindrae are a compassionate and empathetic group. Their natural heightened empathy will put them in the position of advisors, therapists, and counselors for their race. Likewise, the Karuna will often accompany the Garva in vital interspecies discussions, especially in tense situations at the edge of conflict.
 
 ##### Urdhva Clan
 Lastly, the Urdhva Dindrae are the guiding force behind the Dindrae civilization, providing leadership, inspiration, and vision. Urdhva are fundamentally guided and inspired by the **Ekata Myth**. For the Urdhva, all Dindrae will one day unite to become whole.
