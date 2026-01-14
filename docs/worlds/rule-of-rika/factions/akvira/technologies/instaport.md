@@ -2,7 +2,7 @@
 
 ## Overview
 
-How the Clawshar got their paws on Instaport technology, none knows. By excavating an ancient, dust-covered, secret planet? Perhaps. By trading with the Outcasts or the Rebels? Maybe. By stealing classified but still underdeveloped blueprints from one of the major races? Most probably.
+How the Clawshar got their paws on the Instaport cores none knows. By excavating an ancient, dust-covered, secret planet? Perhaps. By trading with the Outcasts or the Rebels? Maybe. By stealing classified but still underdeveloped blueprints from one of the major races? Most probably. 
 
 Being the warez-dealing scoundrel race they are, they swiftly offered its use to the Akvira. Since no other race stepped forward to claim ownership or initiate litigation, the Akvira accepted the contract.
 
@@ -10,13 +10,21 @@ Being the warez-dealing scoundrel race they are, they swiftly offered its use to
 
 ## Lab Report
 
-Merimus stared at the circle, his eyes narrow, mouth clenched. The technology in front of him was a jarring paradox. The underlying marble-like core was wondrous to behold; it pulsed with an ethereal light, its smooth, seamless surface and ever-slight change of colors capturing his imagination.
+Merimus stared at the circle with narrow eyes and a clenched mouth. The technology in front of him was a jarring paradox. The underlying marble-like core was wondrous to behold; it pulsed with an ethereal light, its smooth, seamless surface and ever-slight change of colors capturing both his vision and imagination.
 
-Yet as his eyes left the core, his face twisted into a smirk. "Cats," he noted with a tingle of disgust. Bypass chips, burned-in patches, short cables—the Clawshar's tech meddling was obvious. And ugly.
+Yet as his eyes left the core, his beak clapped twice, shortly, narrowly. 
 
-> "How in the Ultimate Mind's knowledge they get anything to work is beyond me, Merimus," said Kantika, holding a portable scanner in her hands, lights flashing across its surface.
+Bypass chips, burned-in patches, short cables. The Clawshar's tech hacks were obvious. And ugly.
+
+"Cats," he exhaled with audible contempt. 
+
+> "How in the Ultimate Mind's knowledge they get anything to work is beyond me, Merimus," said Kantika, standing beside him. A portable scanner in her hands flased lights across its surface in periodic tempo.
 >
-> "They do, nonetheless," he answered quietly, eyes never leaving the device. "Inform the Chancellor. We are ready to deploy."
+> "They do, nonetheless," he answered quietly, eyes never leaving the device. 
+
+> "Still", she responded soberly, "The energy outputs on this piece fluctuate wildly. Their hacks may be efficient but they are, as always, quite unstable. This transportation circle will not last more than a dozen uses." 
+
+"We only need a couple." He finally looked up, his gaze determined. "Inform the Chancellor. We deploy now."
 
 ---
 
