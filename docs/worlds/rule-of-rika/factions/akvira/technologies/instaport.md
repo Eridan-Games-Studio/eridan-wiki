@@ -8,7 +8,7 @@ Being the warez-dealing scoundrel race they are, they swiftly offered its use to
 
 ---
 
-## Field Report: Observation
+## Lab Report
 
 Merimus stared at the circle, his eyes narrow, mouth clenched. The technology in front of him was a jarring paradox. The underlying marble-like core was wondrous to behold; it pulsed with an ethereal light, its smooth, seamless surface and ever-slight change of colors capturing his imagination.
 
@@ -20,15 +20,15 @@ Yet as his eyes left the core, his face twisted into a smirk. "Cats," he noted w
 
 ---
 
-## Technical Limitations & Regulations
+## Rika Regulations
 
-The Arena has sanctioned its use according to its regulations. However, the use of the Instaport is limited—always fewer than a dozen times—after which the circle's lights dim, fade, and finally cease to be responsive.
+Rika has sanctioned the use of Instaport circles to the Akvira according to its regulations. However, due to some unknown reason, the use of the teleporting circle is limited—always fewer than a dozen times—after which the circle's lights dim, fade, and finally cease to be responsive.
 
-Interestingly, the Arena does not demand payment for the use of the circle on the Chancellor's part, but instead only for the equipment's activation on the surface. As could be expected, the Akvira have wholeheartedly welcomed this cost levy, seeing it as part of the Arena's favor toward their great race.
+Interestingly, the Rika does not demand payment for the use of the circle on the Chancellor's part, but instead only for the equipment's activation on the surface. As could be expected, the Akvira have wholeheartedly welcomed this cost levy, seeing it as part of the Rika's favor toward their great race.
 
 ---
 
-## Cultural Significance
+## The Cost of Influence
 
 The Akvira pride themselves on strategic acumen and prescience. To them, foreseeing and planning for every outcome is essential; a leader who fails to account for the cost of their undertaking is no Grand Strategist, but a gambler to be despised. As such, if the Chancellor and the General misalign in their intentions and planning, and the General activates the equipment in a moment when the Chancellor cannot pay the cost with Rika approved points, the Chancellor will suffer a penalty to his influence in the council. It is a point the Clawshar are always eager to note whenever they face blame for their unstable hardware.
 
