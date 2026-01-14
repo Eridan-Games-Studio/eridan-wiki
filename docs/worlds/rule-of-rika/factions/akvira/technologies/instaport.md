@@ -34,4 +34,4 @@ The Akvira pride themselves on strategic acumen and prescience. To them, foresee
 
 ---
 
-[← Back to Akvira Codex](../akvira.md)
+[← Back to Akvira Codex](worlds/rule-of-rika/factions/akvira/akvira.md)

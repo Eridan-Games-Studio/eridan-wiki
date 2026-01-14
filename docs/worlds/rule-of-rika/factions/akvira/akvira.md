@@ -106,8 +106,8 @@ As is described in the marriage covenant recited by both Akvira:
 
 ## TECHNOLOGIES
 
-- **[Nebu Metal](technologies/nebu-metal.md)** — Sacred metal unique to Akvira worlds; used for armor, fuel, and adornments. Its psychoactive properties grant extrasensory perception to wearers.
-- **[Instaport](technologies/instaport.md)** — Teleportation circles of mysterious origin, acquired from the Clawshar and sanctioned by the Arena for Rika battles.
+- **[Nebu Metal](worlds/rule-of-rika/factions/akvira/technologies/nebu-metal.md)** — Sacred metal unique to Akvira worlds; used for armor, fuel, and adornments. Its psychoactive properties grant extrasensory perception to wearers.
+- **[Instaport](worlds/rule-of-rika/factions/akvira/technologies/instaport.md)** — Teleportation circles of mysterious origin, acquired from the Clawshar and sanctioned by the Arena for Rika battles.
 
 ---
 

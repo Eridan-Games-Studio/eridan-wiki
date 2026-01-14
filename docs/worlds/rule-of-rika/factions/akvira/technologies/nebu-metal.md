@@ -53,4 +53,4 @@ An instant before the impact, the bionic talons released with a loud clank, and 
 
 ---
 
-[← Back to Akvira Codex](../akvira.md)
+[← Back to Akvira Codex](worlds/rule-of-rika/factions/akvira/akvira.md)
