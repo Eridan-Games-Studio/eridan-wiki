@@ -1,22 +1,22 @@
 # THE LIGUNI CODEX
 
+<img src="worlds/rule-of-rika/factions/liguni/liguni.png" alt="Liguni" align="right" width="300">
+
+*"Their minds, like their birthplace — a vast, deep, and dark ocean."*
+
+— Seghmet Gor, 1st Legion, Tertiary Commander, Akvira Empire
+
 ## Table of Contents
+
 - [Introduction](#introduction)
 - [Symbiosis](#symbiosis)
 - [Historical Record](#historical-record)
 - [Technology](#technology)
-  - [Combat Doctrine](#combat-doctrine)
 - [Negotiation Scene](#negotiation-scene)
-
 
 ---
 
 ## Introduction
-
-> *"Their minds, like their birthplace — a vast, deep, and dark ocean."*  
-> — *Seghmet Gor, 1st Legion, Tertiary Commander, Akvira Empire*
-
----
 
 The **Liguni race** is comprised of two evolutionarily distinct subspecies:  
 the **Dhul**, the less‑sentient but highly intelligent,  

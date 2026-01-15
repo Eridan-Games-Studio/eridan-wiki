@@ -1,16 +1,15 @@
 # THE DINDRAE CODEX
 
+<img src="worlds/rule-of-rika/factions/dindrae/dindra.png" alt="Dindrae" align="right" width="300">
+
+*"In the vast expanse of the universe, in ages foregone and forgotten, a divine being known as Ekata was..."*
+
+— From the Story of Ekata
+
 ## Table of Contents
+
 - [The Dindrae Tetrarky](#the-dindrae-tetrarky)
-  - [Overview](#overview)
-  - [Social Structure: The Bhava System](#social-structure-the-bhava-system)
-  - [The Clans of the Dindrae](#the-clans-of-the-dindrae)
-  - [The Story of Ekata](#the-story-of-ekata)
 - [The Dindrae Economy](#the-dindrae-economy)
-  - [Overview](#overview-1)
-  - [The Concept of Rasa](#the-concept-of-rasa)
-  - [The Economic Foundation: Dhana](#the-economic-foundation-dhana)
-  - [Scholarly Commentary: “Observing the Dindrae”](#scholarly-commentary-observing-the-dindrae)
 
 ---
 

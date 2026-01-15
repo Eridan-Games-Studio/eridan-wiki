@@ -1,6 +1,15 @@
 # THE AKVIRA CODEX
 
+<img src="worlds/rule-of-rika/factions/akvira/akvira.png" alt="Akvira Warrior" align="right" width="300">
+
+*"Her Mind our light,
+Her Body our flesh,
+Her Inheritance our Empire."*
+
+— Ceremonial greeting to the Empress.
+
 ## Table of Contents
+
 - [Empress Akvira](#empress-akvira)
 - [Culture](#culture)
 - [Governance](#governance)
@@ -9,16 +18,6 @@
 ---
 
 ## EMPRESS AKVIRA
-
-### Ceremonial Greeting
-
-"Her Mind our light,  
-Her Body our flesh,  
-Her Inheritance our Empire."
-
-— Ceremonial greeting to the Empress.
-
----
 
 ### The Sovereign of the Akvira Empire
 

@@ -1,7 +1,19 @@
-# ZO HAR
+# THE ZO HAR CODEX
 
-> **"There is only one Zo Har, and Zo Har is many."**  
-> — *Iar Meen Arian – Grand Chronicler of the Xaurpid dynasty*
+<img src="worlds/rule-of-rika/factions/zohar/zohar.png" alt="Zo Har" align="right" width="300">
+
+*"There is only one Zo Har, and Zo Har is many."*
+
+— Iar Meen Arian, Grand Chronicler of the Xaurpid dynasty
+
+## Table of Contents
+
+- [Species Overview](#the-zo-har-species-overview)
+- [Terraforming](#terraforming-the-unique-power-of-zo-har)
+- [Interspecies Relations](#zo-har-interspecies-relations)
+- [Galactic Council](#the-zo-har-and-the-galactic-council)
+- [Diplomatic Framework](#diplomatic-framework)
+- [The Tower Tree](#the-zo-har-tower-tree)
 
 ---
 
