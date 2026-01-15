@@ -2,9 +2,9 @@
 
 <img src="worlds/rule-of-rika/factions/dindrae/dindra.png" alt="Dindrae" align="right" width="300">
 
-*"In the vast expanse of the universe, in ages foregone and forgotten, a divine being known as Ekata was..."*
+"Well, it’s not difficult to dominate the economy when money is literally growing out of you."
 
-— From the Story of Ekata
+— Darek The Proud, vestibular emissary of the Xaun Federation
 
 ## Table of Contents
 
@@ -77,16 +77,7 @@ Importantly, these Dindrae also believe Ekata desires the elevation of other rac
 ---
 
 ## THE DINDRAE ECONOMY
-
-### Overview
-
-"Doing business with one Dindrae is doing business with all of Dindrae."
-
-— *Grashrok the thief*
-
 ---
-
-### The Concept of Rasa
 
 The Dindrae share a unique emotional telepathy, which they call **"Rasa"** – coarsely understood to mean *“The echo of the mind of Ekata.”*
 
