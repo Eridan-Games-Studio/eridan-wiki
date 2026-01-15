@@ -10,21 +10,21 @@ Being the warez-dealing scoundrel race they are, they swiftly offered its use to
 
 ## Lab Report
 
-Merimus stared at the circle with narrow eyes and a clenched mouth. The technology in front of him was a jarring paradox. The underlying marble-like core was wondrous to behold; it pulsed with an ethereal light, its smooth, seamless surface and ever-slight change of colors capturing both his vision and imagination.
+Merimus stared at the circle with narrow eyes and a clenched jaw. The technology in front of him was a jarring paradox. The underlying marble-like core was wondrous to behold; it pulsed with an ethereal light, its smooth, seamless surface and ever-shifting colors capturing both his vision and imagination.
 
-Yet as his eyes left the core, his beak clapped twice, shortly, narrowly. 
+Yet as his eyes left the core, his beak clapped twice—short, sharp snaps.
 
 Bypass chips, burned-in patches, short cables. The Clawshar's tech hacks were obvious. And ugly.
 
-"Cats," he exhaled with audible contempt. 
+"Cats," he exhaled with audible contempt.
 
-> "How in the Ultimate Mind's knowledge they get anything to work is beyond me, Merimus," said Kantika, standing beside him. A portable scanner in her hands flased lights across its surface in periodic tempo.
->
-> "They do, nonetheless," he answered quietly, eyes never leaving the device. 
+>"How, by the Ultimate Mind, they get anything to work is beyond me, Merimus," said Kantika, standing beside him. A portable scanner in her hands flashed lights across its surface in a steady rhythm.
 
-> "Still", she responded soberly, "The energy outputs on this piece fluctuate wildly. Their hacks may be efficient but they are, as always, quite unstable. This transportation circle will not last more than a dozen uses." 
+> "They do, nonetheless," he answered quietly, his eyes never leaving the device.
 
-"We only need a couple." He finally looked up, his gaze determined. "Inform the Chancellor. We deploy now."
+>"Still," she responded soberly, "the energy outputs on this piece fluctuate wildly. Their hacks may be efficient, but they are, as always, quite unstable. This transportation circle will not last more than a dozen uses."
+
+>"We only need a couple." He finally looked up, his gaze determined. "Inform the Chancellor. We deploy now."
 
 ---
 
