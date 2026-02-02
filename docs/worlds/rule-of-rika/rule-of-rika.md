@@ -7,14 +7,11 @@ A Galactic Chronicle of Power, Prophecy, and the Cosmic Balance.
 
 ---
 
-## Welcome to the Age of High Adventure
+## The Age of High Adventure
 
-In this galactic cycle, the planetoid **Rika** stands as the solemn arbiter of galactic relations.  
-
+In this galactic cycle, the planetoid **Rika** stands as the solemn arbiter of galactic relations.
 She guides both individuals, groups and civilizations.
-
 She calls forth those whose future only she can see, summoning them to her ever-shifting terrain to settle their disputes through trial in combat and strength of influence. 
-
 She guides those whom she chooses to accomplish her inscrutable goals. These are her chosen, her unlikely heroes — her adventurers.  
 
 ---
