@@ -115,8 +115,6 @@ As is described in the marriage covenant recited by both Akvira:
 - [Rule of Rika Overview](worlds/rule-of-rika/rule-of-rika.md)
 - [Dindrae Tetrarky Codex](worlds/rule-of-rika/factions/dindrae/dindrae-tetrarky.md)
 - [Liguni Confluence Codex](worlds/rule-of-rika/factions/liguni/liguni-confluence.md)
-- [Santariana Innervation Codex](worlds/rule-of-rika/factions/santariana/santariana.md)
-- [XIA Distribution Codex](worlds/rule-of-rika/factions/xia/xia-distribution.md)
 - [Zo Har Unity Codex](worlds/rule-of-rika/factions/zohar/zo-har.md)
 
 ---

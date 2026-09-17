@@ -29,12 +29,9 @@ Meet the powers that shape the galaxy.
 
 **The Contenders:**
 - [**Akvira Empire**](worlds/rule-of-rika/factions/akvira/akvira.md) — A warrior avian race endowed with the gift of prescience and the pscyhokinetic Nebu metal. 
-- [**XIA Distribution**](worlds/rule-of-rika/factions/xia/xia-distribution.md) —  Millions of unique digital minds, comprised of personalities (Shen), inhabiting billions of android bodies. 
 - [**Liguni Confluence**](worlds/rule-of-rika/factions/liguni/liguni-confluence.md) —  A symbiotic octopoid race, composed of the hyperspecialized "Dhul" and the pan-temporal "Agon".
 - [**Dindrae Tetrarky**](worlds/rule-of-rika/factions/dindrae/dindrae-tetrarky.md) — Elemental instilled race, that manifests emotional auras and grows crystalline wealth within their own bodies. 
 - [**Zo Har Unity**](worlds/rule-of-rika/factions/zohar/zo-har.md) — A single gestalt hive organism comprised of warriors, builders, and thinkers. They terraform barren planets, and follow "The Mission"
-- [**Santariana Innervation**](worlds/rule-of-rika/factions/santariana/santariana.md) —  Spore-transformed members of other races, who administer medical benefits in exchange for the raw, experience of shared emotional thrills. 
-- [**The Kyria Principality**] —  The remnants of an ascended race which now guides their livelihood through sentient artifacts. 
 ---
 
 ## Games
